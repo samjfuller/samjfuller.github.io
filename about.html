@@ -11,12 +11,12 @@
 
 
 
-<title>About Me</title>
+<title>Fun Facts</title>
 
 <script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -79,6 +79,7 @@ h6 {
 </style>
 
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 
 
@@ -113,33 +114,33 @@ summary {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 51px;
+  padding-top: 60px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .dropdown-submenu {
   position: relative;
@@ -278,15 +279,18 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Personal Website</a>
+      <a class="navbar-brand" href="index.html">Sam Fuller</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
+  <a href="about.html">About Me</a>
 </li>
 <li>
-  <a href="about.html">About Me</a>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="code.html">Coding</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -300,7 +304,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About Me</h1>
+<h1 class="title toc-ignore">Fun Facts</h1>
 
 </div>
 
@@ -308,9 +312,122 @@ $(document).ready(function () {
 <ul>
 <li><strong>Name:</strong> Sam Fuller</li>
 <li><strong>Ocupation:</strong> PhD Candidate in Political Science, University of Calfornia, Davis</li>
-<li><strong>Hobbies:</strong> Hiking and watching garbage movies.</li>
+<li><strong>Hobbies:</strong> Hiking and watching both <a href="https://letterboxd.com/sfmcrfuller/">great and garbage movies</a>.</li>
+<li><strong>History:</strong> Originally from the Southeast (Tennessee &amp; Georgia)</li>
 </ul>
-<p><img src="images/berryessa.jpg" /></p>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 5s;
+  animation-name: fade;
+  animation-duration: 5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .8} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .8} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+<h2>
+Hiking and Travel Pictures
+</h2>
+<div class="slideshow-container">
+<div class="mySlides fade">
+<img src="images/berryessa.jpg" style="width:100%">
+<div class="text">
+Lake Berryessa (2020)
+</div>
+</div>
+<div class="mySlides fade">
+<img src="images/yosemite.jpg" style="width:100%">
+<div class="text">
+Yosemite’s Vernal Falls (2019)
+</div>
+</div>
+<div class="mySlides fade">
+<img src="images/matterhorn.jpg" style="width:100%">
+<div class="text">
+The Matterhorn (2017)
+</div>
+</div>
+<div class="mySlides fade">
+<img src="images/quilotoa.jpg" style="width:100%">
+<div class="text">
+Quilotoa, Ecuador (2015)
+</div>
+</div>
+<div class="mySlides fade">
+<img src="images/grandcanyon.jpg" style="width:100%">
+<div class="text">
+The Grand Canyon (2017)
+</div>
+</div>
+</div>
+<p><br></p>
+<div style="text-align:center">
+<p><span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span></p>
+</div>
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 5000); // Change image every 5 seconds
+}
+</script>
+</body>
 
 
 
