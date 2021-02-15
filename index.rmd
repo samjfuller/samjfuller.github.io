@@ -1,5 +1,14 @@
----
-title: "Personal Website"
----
+<br />
 
-Hello, World!
+<div class = "pull-left">
+  <img width = "300" src="images/me.jpg" style = "padding-right: 25px">
+</div>
+
+# Sam Fuller
+
+I'm a PhD Candidate in political science at the University of [California, Davis](http://ps.ucdavis.edu/).
+
+My research focuses on better understanding public opinion and political behavior, with a focus on ideological and affective polarization, using advanced methods like dimensional analysis and machine learning methods.
+
+I received a B.S. in both political science and economics from [Berry College](https://berry.edu).
+
