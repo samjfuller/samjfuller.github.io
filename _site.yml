@@ -3,13 +3,19 @@ output_dir: "."
 navbar:
   title: "Sam Fuller"
   left:
-    - text: "About Me"
-      href: about.html
     - text: "Research"
       href: research.html
-    - text: "Coding"
-      href: code.html
+    - text: "About Me"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:sjfuller@ucdavis.edu
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/samjfuller
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=EAwVTAYAAAAJ&hl=en&oi=ao
 output:
   html_document:
     theme: flatly
     css: style.css
+    highlight: textmate

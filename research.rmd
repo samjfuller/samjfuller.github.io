@@ -1,8 +1,11 @@
 ---
-title: "Research"
+title: ""
 ---
 
-<br />
+## Research Interests
+
+In general, I'm deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. So far, my research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization. In the future, I aim to continue studying affective and ideological polarization in the United States (and elsewhere), and their interrelationship.
+
 
 ## Publications
 
@@ -10,19 +13,21 @@ title: "Research"
 
 - [The Interactive Effects of Scientific Knowledge and Gender on COVID‐19 Social Distancing Compliance](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4)
 
+- [The role of race and scientific trust on support for COVID-19 social distancing measures in the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127)
+
+
+## Under Review
+
+- Populism and the Affective Partisan Space in Eight European Publics: Evidence from a Cross-National Survey
+
+- Assessing the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic control methods approach
+
 ## Working Papers
 
 - See It in 3D: The Underlying Dimensions of Affective Polarization
 
 - [Towards a General Methodology of Bridging Ideological Spaces](https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces)
 
+- Progressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research
 
-
-## Links to Scholarly Pages
-
-- [Google Scholar](https://scholar.google.com/citations?user=EAwVTAYAAAAJ&hl=en&oi=ao)
-
-- [Research Gate](https://www.researchgate.net/profile/Sam_Fuller7)
-
-- ORCID
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9670-1092" href="https://orcid.org/0000-0002-9670-1092" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9670-1092</a></div>
+- Rational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972–2020
