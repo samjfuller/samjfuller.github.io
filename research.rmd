@@ -2,7 +2,11 @@
 title: "Research"
 ---
 
+<<<<<<< HEAD
 <br />
+=======
+
+>>>>>>> 8a794e7345fa90125408ac3ac9841bab9d35ff51
 
 ## Publications
 
