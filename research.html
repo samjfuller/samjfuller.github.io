@@ -11,9 +11,9 @@
 
 
 
-<title>research.knit</title>
+<title>My Research</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -246,6 +247,9 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="CV.html">CV</a>
 </li>
 <li>
   <a href="about.html">About Me</a>
@@ -279,36 +283,64 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">My Research</h1>
 
 </div>
 
 
-<div id="research-interests" class="section level2">
-<h2>Research Interests</h2>
-<p>In general, I’m deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. So far, my research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization. In the future, I aim to continue studying affective and ideological polarization in the United States (and elsewhere), and their interrelationship.</p>
-</div>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NBK5N9D');</script>
+<!-- End Google Tag Manager -->
+<p>In general, I’m deeply interested in measuring political attitudes
+and opinions primarily using dimensional scaling and machine learning.
+So far, my research has worked to better understand COVID attitudes and
+behaviors and the dimensionality of affective polarization. In the
+future, I aim to continue studying affective and ideological
+polarization in the United States (and elsewhere), and their
+interrelationship.</p>
 <div id="publications" class="section level2">
 <h2>Publications</h2>
 <ul>
-<li><p><a href="https://www.cambridge.org/core/journals/politics-and-gender/article/conditional-effect-of-scientific-knowledge-and-gender-on-support-for-covid19-government-containment-policies-in-a-partisan-america/C4AEB27D4046433749A883941AC74809">The Conditional Effects of Scientific Knowledge &amp; Gender on Support for COVID-19 Government Containment Policies in a Partisan America</a></p></li>
-<li><p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4">The Interactive Effects of Scientific Knowledge and Gender on COVID‐19 Social Distancing Compliance</a></p></li>
-<li><p><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127">The role of race and scientific trust on support for COVID-19 social distancing measures in the United States</a></p></li>
-</ul>
-</div>
-<div id="under-review" class="section level2">
-<h2>Under Review</h2>
-<ul>
-<li><p>Populism and the Affective Partisan Space in Eight European Publics: Evidence from a Cross-National Survey</p></li>
-<li><p>Assessing the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic control methods approach</p></li>
+<li><p><a
+href="https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full">Populism
+and the affective partisan space in nine European publics: Evidence from
+a cross-national survey</a></p></li>
+<li><p><a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374">Assessing
+the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic
+control methods approach</a></p></li>
+<li><p><a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127">The
+role of race and scientific trust on support for COVID-19 social
+distancing measures in the United States</a></p></li>
+<li><p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4">The
+Interactive Effects of Scientific Knowledge and Gender on COVID‐19
+Social Distancing Compliance</a></p></li>
+<li><p><a
+href="https://www.cambridge.org/core/journals/politics-and-gender/article/conditional-effect-of-scientific-knowledge-and-gender-on-support-for-covid19-government-containment-policies-in-a-partisan-america/C4AEB27D4046433749A883941AC74809">The
+Conditional Effects of Scientific Knowledge &amp; Gender on Support for
+COVID-19 Government Containment Policies in a Partisan
+America</a></p></li>
 </ul>
 </div>
 <div id="working-papers" class="section level2">
 <h2>Working Papers</h2>
 <ul>
-<li><p>See It in 3D: The Underlying Dimensions of Affective Polarization</p></li>
-<li><p><a href="https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces">Towards a General Methodology of Bridging Ideological Spaces</a></p></li>
-<li><p>Progressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research</p></li>
-<li><p>Rational Voting in the Age of Ideological Polarization &amp; Responsible Parties: Examining Presidential Elections from 1972–2020</p></li>
+<li><p>See It in 3D: The Underlying Dimensions of Affective
+Polarization</p></li>
+<li><p><a
+href="https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces">Towards
+a General Methodology of Bridging Ideological Spaces</a></p></li>
+<li><p>Progressives and Never-Trumpers: Contrastive Principal Component
+Analysis as an Alternative Method for Public Opinion Research</p></li>
+<li><p>Rational Voting in the Age of Ideological Polarization &amp;
+Responsible Parties: Examining Presidential Elections from
+1972–2020</p></li>
 </ul>
 </div>
 

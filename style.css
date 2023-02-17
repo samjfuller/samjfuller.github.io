@@ -2,3 +2,37 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
+
+a:link {
+  color: #0395DE;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  text-decoration: underline
+}
+
+a:visited {
+  color: #785fa1;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}

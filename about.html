@@ -13,7 +13,7 @@
 
 <title>Fun Facts</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -248,7 +249,7 @@ $(document).ready(function () {
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="code.html">Coding</a>
+  <a href="CV.html">CV</a>
 </li>
 <li>
   <a href="about.html">About Me</a>
@@ -273,12 +274,6 @@ $(document).ready(function () {
      
   </a>
 </li>
-<li>
-  <a href="https://orcid.org/0000-0002-9670-1092">
-    <span class="&lt;img alt=&quot;ORCID logo&quot; src=&quot;https://info.orcid.org/wp &lt;img alt=&quot;ORCID logo&quot; src=&quot;https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png&quot; width=&quot;16&quot; height=&quot;16&quot; /&gt;&lt;/a&gt;"></span>
-     
-  </a>
-</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -295,9 +290,13 @@ $(document).ready(function () {
 
 <ul>
 <li><strong>Name:</strong> Sam Fuller</li>
-<li><strong>Ocupation:</strong> PhD Candidate in Political Science, University of Calfornia, Davis</li>
-<li><strong>Hobbies:</strong> Hiking and watching both <a href="https://letterboxd.com/sfmcrfuller/">great and garbage movies</a>.</li>
-<li><strong>History:</strong> Originally from the Southeast (Tennessee &amp; Georgia)</li>
+<li><strong>Ocupation:</strong> PhD Candidate in Political Science,
+University of Calfornia, Davis</li>
+<li><strong>Hobbies:</strong> Hiking and watching both <a
+href="https://letterboxd.com/sfmcrfuller/">great and garbage
+movies</a>.</li>
+<li><strong>History:</strong> Originally from the Southeast (Tennessee
+&amp; Georgia)</li>
 </ul>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -388,7 +387,9 @@ The Grand Canyon (2017)
 </div>
 <p><br></p>
 <div style="text-align:center">
-<p><span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span></p>
+<p><span class="dot"></span> <span class="dot"></span> <span
+class="dot"></span> <span class="dot"></span> <span
+class="dot"></span></p>
 </div>
 <script>
 var slideIndex = 0;
