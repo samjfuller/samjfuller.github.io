@@ -1,23 +1,45 @@
-name: "personal-website"
-output_dir: "."
-navbar:
+project:
+  type: website
+  output-dir: docs
+
+website:
   title: "Sam Fuller"
-  left:
-    - text: "Research"
-      href: research.html
-    - text: "CV"
-      href: CV.html
-    - text: "About Me"
-      href: about.html
-  right:
-    - icon: fa-envelope fa-lg
-      href: mailto:sjfuller@ucdavis.edu
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/samjfuller
-    - icon: fa-graduation-cap fa-lg
-      href: https://scholar.google.com/citations?user=EAwVTAYAAAAJ&hl=en&oi=ao
-output:
-  html_document:
-    theme: flatly
+  open-graph: true
+  favicon: images/concept.png
+  twitter-card: true
+  site-url: "https://samjfuller.com"
+  navbar:
+    logo: images/concept.png
+    search: true
+    left:
+      - text: Home
+        file: index.qmd
+      - research.qmd
+      - teaching.qmd
+      - cv.qmd
+      - about.qmd
+    right:
+      - icon: fa-envelope fa-lg
+        href: "mailto:sjfuller@ucdavis.edu"
+      - icon: fa-graduation-cap fa-lg
+        href: https://scholar.google.com/citations?user=EAwVTAYAAAAJ&hl=en&oi=ao
+      - icon: github
+        text: Github
+        href: https://github.com/samjfuller
+      - icon: fa-twitter fa-lg
+        href: https://twitter.com/samjfuller
+  page-footer: 
+    left: "All content by Sam Fuller, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)"
+       
+format:
+  html:
+    theme: 
+      light: [sandstone, theme-light.scss]
+      dark: [sandstone, theme-dark.scss]
     css: style.css
-    highlight: textmate
+    toc: true
+
+execute:
+  freeze: auto  # re-render only when source changes
+ 
+editor: visual

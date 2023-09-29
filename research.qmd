@@ -1,0 +1,43 @@
+---
+title: "My Research"
+---
+
+In general, I'm deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. Furthermore, I have an ongoing research project with [Jack Rametta](https://jackrametta.com/) on incorporating machine learning into experimental analyses in the social sciences. So far, my previous research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization.
+
+[**Publications**]{.underline}
+
+-   [Populism and the affective partisan space in nine European publics: Evidence from a cross-national survey](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full)
+    -   With Will Horne, James Adams, & Noam Gidron
+
+-   [Assessing the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic control methods approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374)
+    -   With Sara Kazemian, Carlos Algara, & Daniel J. Simmons
+
+-   [The role of race and scientific trust on support for COVID-19 social distancing measures in the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127)
+    -   With Sara Kazemian & Carlos Algara
+
+-   [The Interactive Effects of Scientific Knowledge and Gender on COVID‐19 Social Distancing Compliance](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4)
+    -   With Carlos Algara, Christopher D. Hare, & Sara Kazemian
+
+-   [The Conditional Effects of Scientific Knowledge & Gender on Support for COVID-19 Government Containment Policies in a Partisan America](https://www.cambridge.org/core/journals/politics-and-gender/article/conditional-effect-of-scientific-knowledge-and-gender-on-support-for-covid19-government-containment-policies-in-a-partisan-america/C4AEB27D4046433749A883941AC74809)
+    - With Carlos Algara & Christopher D. Hare
+
+[**Research in Preparation**]{.underline}
+
+*Research Under Review*
+
+-   Balance Tests Are Dead, Long Live Balance Tests: A New Machine Learning Approach to Detecting Randomization Failures (AJPS)
+    -   With Jack T. Rametta
+
+-   Affect or Ideology?: The Heterogeneous Effects of Political Cues on Policy Support (AJPS)
+    -   With Nicolás de la Cerda & Jack T. Rametta
+
+*Working Papers*
+
+-   [Towards a General Methodology of Bridging Ideological Spaces](https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces)
+    -   With Tzu-Ping Liu & Gento Kato
+
+-   Progressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research
+    -   With Tzu-Ping Liu
+
+-   Rational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972--2020
+    -   With Carlos Algara

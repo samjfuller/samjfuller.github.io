@@ -1,3 +1,5 @@
+/* css styles */
+
 img {
   display: block;
   margin: 0 auto;
@@ -20,7 +22,6 @@ img {
 }
 
 a:link {
-  color: #0395DE;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -31,7 +32,7 @@ a:hover {
 }
 
 a:visited {
-  color: #785fa1;
+  color: #e6e6fa;
   text-align: center;
   text-decoration: none;
   display: inline-block;

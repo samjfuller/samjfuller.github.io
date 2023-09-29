@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sam Fuller"
+  open-graph: true
+  favicon: images/concept.png
+  twitter-card: true
+  site-url: "https://samjfuller.com"
+  navbar:
+    search: true
+    left:
+      - text: Home
+        file: index.qmd
+      - research.qmd
+      - teaching.qmd
+      - text: CV
+        file: cv.qmd
+    right:
+      - icon: envelope
+        text: Email
+        href: "mailto:sjfuller@ucdavis.edu"
+      - icon: mortarboard
+        text: Scholar
+        href: https://scholar.google.com/citations?user=EAwVTAYAAAAJ&hl=en&oi=ao
+      - icon: github
+        text: Github
+        href: https://github.com/samjfuller
+      - icon: camera-reels
+        text: letterboxd
+        href: https://letterboxd.com/sfmcrfuller/
+  page-footer: 
+    left: "All content by Sam Fuller, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)"
+       
+format:
+  html:
+    page-layout: full
+    theme: 
+      dark: [darkly, theme-dark.scss]
+      light: [flatly, theme-light.scss]
+    css: style.css
+    toc: true
+
+execute:
+  freeze: auto  # re-render only when source changes
+ 
+editor: visual

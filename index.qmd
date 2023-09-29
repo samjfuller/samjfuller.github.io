@@ -1,0 +1,14 @@
+---
+title: "Sam Fuller Phd Candidate, UC Davis"
+format: html
+editor: visual
+---
+
+Hi there! As you can tell, I'm a PhD Candidate in political science at the [University of California, Davis](http://ps.ucdavis.edu/).
+
+My substantive research focuses on better understanding public opinion, political behavior, and political psychology. Particularly, I study ideological and affective polarization as well as partisanship as an identity and am looking at its affects on policy preferences and anti-democratic attitudes. Previously, I've also worked significantly on COVID-19 attitudes, behaviors, and policy outcomes.
+
+My methodological research is primarily focused on bridging the gap between methodologists and substantive scholars. In particular, I'm currently focused on incorporating machine learning tools into researchers' toolsets for analyzing experiments.
+
+
+![](images/me.jpg){fig-align="left" width="500"}

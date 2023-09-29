@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Fuller Phd Candidate, UC Davis",
+    "section": "",
+    "text": "Hi there! As you can tell, I’m a PhD Candidate in political science at the University of California, Davis.\nMy substantive research focuses on better understanding public opinion, political behavior, and political psychology. Particularly, I study ideological and affective polarization as well as partisanship as an identity and am looking at its affects on policy preferences and anti-democratic attitudes. Previously, I’ve also worked significantly on COVID-19 attitudes, behaviors, and policy outcomes.\nMy methodological research is primarily focused on bridging the gap between methodologists and substantive scholars. In particular, I’m currently focused on incorporating machine learning tools into researchers’ toolsets for analyzing experiments."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "My Research",
+    "section": "",
+    "text": "In general, I’m deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. Furthermore, I have an ongoing research project with Jack Rametta on incorporating machine learning into experimental analyses in the social sciences. So far, my previous research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization.\nPublications\n\nPopulism and the affective partisan space in nine European publics: Evidence from a cross-national survey\n\nWith Will Horne, James Adams, & Noam Gidron\n\nAssessing the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic control methods approach\n\nWith Sara Kazemian, Carlos Algara, & Daniel J. Simmons\n\nThe role of race and scientific trust on support for COVID-19 social distancing measures in the United States\n\nWith Sara Kazemian & Carlos Algara\n\nThe Interactive Effects of Scientific Knowledge and Gender on COVID‐19 Social Distancing Compliance\n\nWith Carlos Algara, Christopher D. Hare, & Sara Kazemian\n\nThe Conditional Effects of Scientific Knowledge & Gender on Support for COVID-19 Government Containment Policies in a Partisan America\n\nWith Carlos Algara & Christopher D. Hare\n\n\nResearch in Preparation\nResearch Under Review\n\nBalance Tests Are Dead, Long Live Balance Tests: A New Machine Learning Approach to Detecting Randomization Failures (AJPS)\n\nWith Jack T. Rametta\n\nAffect or Ideology?: The Heterogeneous Effects of Political Cues on Policy Support (AJPS)\n\nWith Nicolás de la Cerda & Jack T. Rametta\n\n\nWorking Papers\n\nTowards a General Methodology of Bridging Ideological Spaces\n\nWith Tzu-Ping Liu & Gento Kato\n\nProgressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research\n\nWith Tzu-Ping Liu\n\nRational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972–2020\n\nWith Carlos Algara"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can find my curriculum vitae below, or you can download my CV as a PDF.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This page is organized in two sections. The first is a record of courses that I’ve assisted with, both graduate and undergraduate. Primarily, I’ve worked on assisting Chris Hare with his machine learning course at the ICPSR Summer Program. The second is a summary of additional lectures and seminars I’ve conducted in and out of courses and within my department. I’ve included access to these documents where available.\nTA Positions\nGraduate Courses\n\nICPSR Summer Program: Machine Learning, Applications for Social Science Research (Summer 2019–2023, Christopher D. Hare)\n\nUndergraduate Courses\n\nPOL 051: The Scientific Study of Politics (Research Methods) (Spring 2020, Christopher D. Hare)\nPOL 147B: The Legislative Process (U.S. Congress) (Spring 2018, Erik Engstrom)\nPOL 012A: Elections & Voting Behavior (Winter 2018, Christopher D. Hare)\n\nLectures, Labs, & Workshops\n\nIntroduction to R: Taught at the ICPSR Summer Program and to incoming students at UC Davis.\nIntroduction to ML in Political Science: Taught at the Inaugural Methods Lunch Talk Series at UC Davis.\nPCA & cPCA Lab (For ICPSR): Taught as part of a lecture on unsupervised machine learning.\n\nCode html\n\nInterpretable Machine Learning Lab (For ICPSR): Taught as an additional lab.\n\nCode html"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Fun Facts",
+    "section": "",
+    "text": "Name: Sam Fuller\nOcupation: PhD Candidate in Political Science, University of Calfornia, Davis\nHobbies: Hiking and watching both great and garbage movies.\nHistory: Originally from the Southeast (Tennessee & Georgia)\n\n\n\n\n\n\n\nHiking and Travel Pictures\n\n\n\n\n\nLake Berryessa (2020)\n\n\n\n\n\nYosemite’s Vernal Falls (2019)\n\n\n\n\n\nThe Matterhorn (2017)\n\n\n\n\n\nQuilotoa, Ecuador (2015)\n\n\n\n\n\nThe Grand Canyon (2017)"
+  },
+  {
+    "objectID": "docs/cv.html",
+    "href": "docs/cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can find my curriculum vitae below, or you can download my CV as a PDF.\nUnable to display PDF file. Download instead."
+  }
+]

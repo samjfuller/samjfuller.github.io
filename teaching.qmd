@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+editor: visual
+---
+
+This page is organized in two sections. The first is a record of courses that I've assisted with, both graduate and undergraduate. Primarily, I've worked on assisting Chris Hare with his machine learning course at the ICPSR Summer Program. The second is a summary of additional lectures and seminars I've conducted in and out of courses and within my department. I've included access to these documents where available.
+
+[**TA Positions**]{.underline}
+
+*Graduate Courses*
+
+-   ICPSR Summer Program: Machine Learning, Applications for Social Science Research (Summer 2019--2023, Christopher D. Hare)
+
+*Undergraduate Courses*
+
+-   POL 051: The Scientific Study of Politics (Research Methods) (Spring 2020, Christopher D. Hare)
+
+-   POL 147B: The Legislative Process (U.S. Congress) (Spring 2018, Erik Engstrom)
+
+-   POL 012A: Elections & Voting Behavior (Winter 2018, Christopher D. Hare)
+
+[**Lectures, Labs, & Workshops**]{.underline}
+
+-   [Introduction to R](content/Intro_to_R_Lab.pdf): Taught at the ICPSR Summer Program and to incoming students at UC Davis.
+
+-   [Introduction to ML in Political Science](content/ML_Applications_in_Political_Science.pdf): Taught at the Inaugural Methods Lunch Talk Series at UC Davis.
+
+-   [PCA & cPCA Lab (For ICPSR)](content/ML_PCA_cPCA_Lab.pdf): Taught as part of a lecture on unsupervised machine learning.
+    -   [Code html](content/PCA_cPCA.html)
+
+-   [Interpretable Machine Learning Lab (For ICPSR)](content/ML_PCA_cPCA_Lab.pdf): Taught as an additional lab.
+    -   [Code html](content/IML_lab_handout.html)
+
