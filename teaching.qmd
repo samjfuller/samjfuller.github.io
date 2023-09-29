@@ -3,7 +3,7 @@ title: "Teaching"
 editor: visual
 ---
 
-This page is organized in two sections. The first is a record of courses that I've assisted with, both graduate and undergraduate. Primarily, I've worked on assisting Chris Hare with his machine learning course at the ICPSR Summer Program. The second is a summary of additional lectures and seminars I've conducted in and out of courses and within my department. I've included access to these documents where available.
+This page is organized in two sections. The first is a record of courses that I've assisted with, both graduate and undergraduate. Primarily, I've worked on assisting [Chris Hare](https://www.christopherdhare.com/) with his machine learning course at the ICPSR Summer Program. The second is a summary of additional lectures and seminars I've conducted in and out of courses and within my department. I've included access to these documents where available.
 
 [**TA Positions**]{.underline}
 

@@ -1,5 +1,5 @@
 ---
-title: "My Research"
+title: "Research"
 ---
 
 In general, I'm deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. Furthermore, I have an ongoing research project with [Jack Rametta](https://jackrametta.com/) on incorporating machine learning into experimental analyses in the social sciences. So far, my previous research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization.

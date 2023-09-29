@@ -16,7 +16,7 @@ website:
       - research.qmd
       - teaching.qmd
       - text: CV
-        file: cv.qmd
+        file: cv.html
     right:
       - icon: envelope
         text: Email
