@@ -4,11 +4,11 @@ project:
 
 website:
   title: "Sam Fuller"
-  open-graph: true
   favicon: images/concept.png
   twitter-card: true
   site-url: "https://samjfuller.com"
   navbar:
+    pinned: true
     search: true
     left:
       - text: Home
@@ -31,7 +31,11 @@ website:
         href: https://letterboxd.com/sfmcrfuller/
   page-footer: 
     left: "All content by Sam Fuller, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)"
-       
+  open-graph:
+    image: images/combined_plot.png
+    site-name: "Sam Fuller, Political Scientist"
+  google-analytics: "G-61BW6TLKYX"
+
 format:
   html:
     page-layout: full
