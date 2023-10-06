@@ -1,6 +1,6 @@
 ---
 title: "Sam Fuller"
-subtitle: "Assistant Professor <br> Department of Political Science <br> University of California, Davis"
+subtitle: "PhD Student <br> Department of Political Science <br> University of California, Davis"
 image: /images/combined_plot.png
 toc: false
 about: 
@@ -27,5 +27,3 @@ Machine Learning \| Experiments \| Political Psychology \| Affective Polarizatio
 **🎓 PhD in Political Science, 2024 (Ongoing)** \| University of California, Davis
 
 **🎓 BS in Political Science & Economics, 2016** \| Berry College
-
-
