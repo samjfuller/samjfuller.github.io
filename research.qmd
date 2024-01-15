@@ -1,6 +1,9 @@
 ---
 title: "Research"
+image: /images/combined_plot.png
 ---
+
+![](/images/combined_plot.png){width=600}
 
 In general, I'm deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. Furthermore, I have an ongoing research project with [Jack Rametta](https://jackrametta.com/) on incorporating machine learning into experimental analyses in the social sciences. So far, my previous research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization.
 
@@ -25,10 +28,10 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 *Research Under Review*
 
--   Balance Tests Are Dead, Long Live Balance Tests: A New Machine Learning Approach to Detecting Randomization Failures (AJPS)
+-   [The Balance Permutation Test: A Machine Learning Replacement for Balance Tables](https://osf.io/xcwt9)
     -   With Jack T. Rametta
 
--   Affect or Ideology?: The Heterogeneous Effects of Political Cues on Policy Support (AJPS)
+-   [Affect, Not Ideology: The Psychological Mechanisms of Partisan Information Processing](https://osf.io/preprints/osf/4k38a)
     -   With Nicolás de la Cerda & Jack T. Rametta
 
 *Working Papers*

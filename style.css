@@ -30,10 +30,3 @@ a:link {
 a:hover {
   text-decoration: underline
 }
-
-a:visited {
-  color: #e6e6fa;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
