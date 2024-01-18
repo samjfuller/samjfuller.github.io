@@ -6,11 +6,18 @@ toc: false
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 30em
+  image-width: 20em
+  links:
+    - icon: mortarboard
+      text: Scholar
+      href: https://scholar.google.com/citations?user=EAwVTAYAAAAJ&hl=en&oi=ao
+    - icon: github
+      text: Github
+      href: https://github.com/samjfuller
 format: html
 ---
 
-Hi there! I'm a PhD Candidate in political science at the [University of California, Davis](http://ps.ucdavis.edu/).
+Hi there! I'm a PhD Candidate in the [Political Science Department](http://ps.ucdavis.edu/) at the University of California, Davis.
 
 My methodological research is primarily focused on creating new, and applying existing, machine learning methods for the analysis of experimental and survey data. Importantly, I care deeply about bridging the gap between methodologists who create theses methods and substantive scholars who would benefit greatly from using these methods. In that vein, I'm currently working on a series of projects with [Jack T. Rametta](http://jackrametta.com/) that introduces standardized, easy-to-use ML methods for analyzing experimental data. Our first methodological and substantive papers in this series are currently under review and available [here](https://osf.io/preprints/osf/xcwt9) and [here](https://osf.io/preprints/osf/4k38a) on OSF, respectively. I'm more than happy to field any questions and I'm definitely interested in receiving useful feedback!
 
@@ -18,7 +25,7 @@ My substantive research focuses on, first, improving our measurement and, second
 
 I have published in journals such as PLOS One, Social Science Quarterly, Politics & Gender, and Frontiers in Political Science. My previous work focuses primarily on [COVID-19 attitudes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127), [behaviors](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4), and [policy outcomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374). I also have a [paper](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full) on leveraging multidimensional scaling to measure ideology and populism in Western Europe (I think it's a neat paper, check it out!).
 
-As for me, I'm originally from a random assortment of places in the Southeast (TN, FL, & GA) and have been living in Northern California since I started my PhD in 2017. In my free time I pet dogs, talk to much about movies, and try to raise awareness about social justice issues in and outside of the US.
+As for me, I'm originally from a random assortment of places in the Southeast (TN, FL, & GA) and have been living in Northern California since I started my PhD in 2017. In my free time I pet dogs, talk too much about movies, and try to raise awareness about social justice issues in and outside of the US.
 
 ### Research interests
 
