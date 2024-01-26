@@ -7,6 +7,14 @@ image: /images/combined_plot.png
 
 In general, I'm deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. Furthermore, I have an ongoing research project with [Jack Rametta](https://jackrametta.com/) on incorporating machine learning into experimental analyses in the social sciences. So far, my previous research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization.
 
+[**Forthcoming**]{.underline}
+
+-   *Advanced Machine Learning for Experiments in the Social Sciences*
+    -   With Jack T. Rametta & Christopher D. Hare
+    -   Under advance contract for publication in the [Cambridge Elements Experimental Political Science Series](https://www.cambridge.org/core/publications/elements/experimental-political-science)
+    
+"Machine learning tools are being more frequently adopted to various stages of the social science workflow. However, this field’s growth has been limited by a lack of principled instruction on applying these methods and the esoteric nature of their current implementations. This Element introduces a comprehensive approach for social scientists looking to incorporate machine learning methods into experimental analysis. Specifically, we provide a flexible, data-driven approach to improve performance on tasks such as balance testing, attrition detection, the measurement of abstract concepts, and treatment effect estimation. Throughout, we detail the advantages of machine learning over traditional methods for these applications and provide practical guidance for evaluating validity, enhancing performance, and presenting results. We conclude by summarizing the myriad implications of these methods for experimental design, including how they integrate with pre-registration. Additionally, we provide a family of R packages with accompanying code and interactive walkthroughs to guide researchers through the host of methods and processes covered. This Element provides an approachable guide for social scientists who wish to apply cutting-edge machine learning methods to enhance the quality and resolution of their experimental research."
+
 [**Publications**]{.underline}
 
 -   [Populism and the affective partisan space in nine European publics: Evidence from a cross-national survey](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full)
@@ -35,6 +43,9 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
     -   With Nicolás de la Cerda & Jack T. Rametta
 
 *Working Papers*
+
+-   Negative Partisanship – Disdain Towards Out-Party Leaders, Out-Party Supporters, or Both?
+    -   With Alexa Bankert & Tabitha Lamberth
 
 -   [Towards a General Methodology of Bridging Ideological Spaces](https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces)
     -   With Tzu-Ping Liu & Gento Kato
