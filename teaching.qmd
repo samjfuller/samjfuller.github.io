@@ -26,8 +26,9 @@ This page is organized in two sections. The first is a record of courses that I'
 -   [Introduction to ML in Political Science](content/ML_Applications_in_Political_Science.pdf): Taught at the Inaugural Methods Lunch Talk Series at UC Davis.
 
 -   [PCA & cPCA Lab (For ICPSR)](content/ML_PCA_cPCA_Lab.pdf): Taught as part of a lecture on unsupervised machine learning.
+
     -   [Code html](content/PCA_cPCA.html)
 
 -   [Interpretable Machine Learning Lab (For ICPSR)](content/ML_PCA_cPCA_Lab.pdf): Taught as an additional lab.
-    -   [Code html](content/IML_lab_handout.html)
 
+    -   [Code html](content/IML_lab_handout.html)

@@ -18,15 +18,13 @@ about:
 format: html
 ---
 
-
 ### *News & Updates*
 
 Important news! [Christopher Hare](https://www.christopherdhare.com/), [Jack T. Rametta](http://jackrametta.com/), and I have received an advance contract for our book, *Advanced Machine Learning for Experiments in the Social Sciences*, to be published in the Cambridge Elements [Experimental Political Science series](https://www.cambridge.org/core/publications/elements/experimental-political-science).
 
----
+------------------------------------------------------------------------
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 ### About Me
 
 Hi there! I'm a PhD Candidate in the [Political Science Department](http://ps.ucdavis.edu/) at the University of California, Davis.
@@ -37,9 +35,9 @@ My substantive research focuses on, first, improving our measurement and, second
 
 I have published in journals such as PLOS One, Social Science Quarterly, Politics & Gender, and Frontiers in Political Science. My previous work focuses primarily on [COVID-19 attitudes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127), [behaviors](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4), and [policy outcomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374). I also have a [paper](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full) on leveraging multidimensional scaling to measure ideology and populism in Western Europe (I think it's a neat paper, check it out!).
 
-As for me, I'm originally from a random assortment of places in the Southeast (TN, FL, & GA) and have been living in Northern California since I started my PhD in 2017. In my free time I pet dogs, talk too much about movies, and try to raise awareness about social justice issues in and outside of the US.
+As for me, I'm originally from a random assortment of places in the Southeast (TN, FL, & GA) and have been living in Northern California since I started my PhD. In my free time I pet dogs, talk too much about movies, and try to raise awareness about social justice issues in and outside of the US.
 
----
+------------------------------------------------------------------------
 
 ### Research interests
 
@@ -47,10 +45,7 @@ Machine Learning \| Experiments \| Political Psychology \| Affective Polarizatio
 
 ### Education
 
-**🎓 PhD in Political Science, 2024 (Ongoing)** \| University of California, Davis
+**🎓 PhD in Political Science, (Ongoing)** \| University of California, Davis
 
-**🎓 BS in Political Science & Economics, 2017** \| Berry College
-
+**🎓 BS in Political Science & Economics** \| Berry College
 :::
-
-
