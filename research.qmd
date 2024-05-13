@@ -30,14 +30,17 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 [**Research in Preparation**]{.underline}
 
-*Research Under Review*
+*Revise & Resubmit*
+
+-   [Affect, Not Ideology: The Psychological Mechanisms of Partisan Information Processing](https://osf.io/preprints/osf/4k38a)
+    -   With Nicolás de la Cerda & Jack T. Rametta at ***Political Behavior***
+
+*Under Review*
 
 -   [The Dangers of Calculating Conditional Effects: A Reevaluation of Barber and Pope (2019)](https://osf.io/preprints/osf/hwzsu)
     -   With Jack T. Rametta
 -   [The Balance Permutation Test: A Machine Learning Replacement for Balance Tables](https://osf.io/preprints/osf/xcwt9)
     -   With Jack T. Rametta
--   [Affect, Not Ideology: The Psychological Mechanisms of Partisan Information Processing](https://osf.io/preprints/osf/4k38a)
-    -   With Nicolás de la Cerda & Jack T. Rametta
 
 *Working Papers*
 

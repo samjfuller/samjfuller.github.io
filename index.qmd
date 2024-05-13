@@ -20,7 +20,9 @@ format: html
 
 ### *News & Updates*
 
-Important news! [Christopher Hare](https://www.christopherdhare.com/), [Jack T. Rametta](http://jackrametta.com/), and I have received an advance contract for our book, *Advanced Machine Learning for Experiments in the Social Sciences*, to be published in the Cambridge Elements [Experimental Political Science series](https://www.cambridge.org/core/publications/elements/experimental-political-science).
+My paper "[Affect, Not Ideology: The Psychological Mechanisms of Partisan Information Processing](https://osf.io/preprints/osf/4k38a)" with Jack T. Rametta and Nico de la Cerda is now under R&R at *Political Behavior*.
+
+[Christopher Hare](https://www.christopherdhare.com/), [Jack T. Rametta](http://jackrametta.com/), and I have received an advance contract for our book, *Advanced Machine Learning for Experiments in the Social Sciences*, to be published in the Cambridge Elements [Experimental Political Science series](https://www.cambridge.org/core/publications/elements/experimental-political-science).
 
 ------------------------------------------------------------------------
 
