@@ -1,6 +1,6 @@
 ---
 title: "Sam Fuller"
-subtitle: "Postdoctoral Fellow <br> Machine Learning Experimental Methods <br> Polarization & Partisanship"
+subtitle: "Postdoctoral Fellow <br> Machine Learning & Experiments <br> Polarization & Partisanship <br> Political Violence"
 image: /images/me_2.jpg
 toc: false
 about:
@@ -20,26 +20,22 @@ format: html
 
 ### *News & Updates*
 
-I am now the CAPS/Harris Postdoctoral Fellow at the [Center for American Political Studies](https://caps.gov.harvard.edu/) in the Department of Government at Harvard University.
+My frequent collaborator, [Jack T. Rametta](http://jackrametta.com/), and I will be teaching an ICPSR Summer Program Topical Workshop titled ["Causal Machine Learning for Observational and Experimental Research"](https://myumi.ch/zXJWb). If you're interested in our CML work, definitely check this class out!
 
-My paper "[Affect, Not Ideology: The Psychological Mechanisms of Partisan Information Processing](https://osf.io/preprints/osf/4k38a)" with Jack T. Rametta and Nico de la Cerda is now under R&R at *Political Behavior*.
-
-[Christopher Hare](https://www.christopherdhare.com/), [Jack T. Rametta](http://jackrametta.com/), and I have received an advance contract for our book, *Advanced Machine Learning for Experiments in the Social Sciences*, to be published in the Cambridge Elements [Experimental Political Science series](https://www.cambridge.org/core/publications/elements/experimental-political-science).
+Relatedly, our working paper ["Causal Forest and Doubly Robust Machine Learning for Political Science"](https://osf.io/preprints/osf/nm9de) is now available on OSF.
 
 ------------------------------------------------------------------------
 
 ::: {#hero-heading}
 ### About Me
 
-Hi there! I'm a Postdoctoral Fellow at the [Center for American Political Studies](https://caps.gov.harvard.edu/) in the [Department of Government](https://www.gov.harvard.edu/) at Harvard University.
+Hi there! I'm a Postdoctoral Fellow in Public Opinion and Survey Methodology at the [Center for American Political Studies](https://caps.gov.harvard.edu/) in the [Department of Government](https://www.gov.harvard.edu/) at Harvard University.
 
 My methodological research is primarily focused on creating new, and applying existing, machine learning methods for the analysis of experimental and survey data. Importantly, I care deeply about bridging the gap between methodologists who create theses methods and substantive scholars who would benefit greatly from using these methods. In that vein, I'm currently working on a series of projects with [Jack T. Rametta](http://jackrametta.com/) that introduces standardized, easy-to-use ML methods for analyzing experimental data. Our first methodological and substantive papers in this series are currently under review and available [here](https://osf.io/preprints/osf/xcwt9) and [here](https://osf.io/preprints/osf/4k38a) on OSF, respectively. I'm more than happy to field any questions and I'm definitely interested in receiving useful feedback!
 
 My substantive research focuses on, first, improving our measurement and, second, increasing our understanding of phenomenon in public opinion, political behavior, and political psychology. Particularly, I study ideological and affective polarization as well as partisanship as an identity and am looking at its affects on policy preferences and anti-democratic attitudes. Additionally, I am also interested in a wide-array of social science questions, including those in Sociology. I am currently working on a project with [Professor Caitlin Patler](https://caitlinpatler.com/) that leverages machine learning (specifically, [DoubleML](https://docs.doubleml.org/stable/index.html)) to estimate the causal effects of immigration detention/incarceration on mental and physical health.
 
 I have published in journals such as PLOS One, Social Science Quarterly, Politics & Gender, and Frontiers in Political Science. My previous work focuses primarily on [COVID-19 attitudes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127), [behaviors](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4), and [policy outcomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374). I also have a [paper](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full) on leveraging multidimensional scaling to measure ideology and populism in Western Europe (I think it's a neat paper, check it out!).
-
-As for me, I'm originally from a random assortment of places in the Southeast (TN, FL, & GA) and have been living in Northern California since I started my PhD. In my free time I pet dogs, talk too much about movies, and try to raise awareness about social justice issues in and outside of the US.
 
 ------------------------------------------------------------------------
 

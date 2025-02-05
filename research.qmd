@@ -37,20 +37,25 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 *Under Review*
 
--   [The Dangers of Calculating Conditional Effects: A Reevaluation of Barber and Pope (2019)](https://osf.io/preprints/osf/hwzsu)
-    -   With Jack T. Rametta
 -   [The Balance Permutation Test: A Machine Learning Replacement for Balance Tables](https://osf.io/preprints/osf/xcwt9)
     -   With Jack T. Rametta
--   [Playing (Un)Fair to Win: A New Measure of (Un)Democratic Attitudes for Survey Research](https://osf.io/preprints/osf/bex4z)
+-   [Attitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander](https://osf.io/preprints/osf/bex4z)
     -   With Hilary Izatt
+-   [Causal Forest and Doubly Robust Machine Learning for Political Science](https://osf.io/preprints/osf/nm9de)
+    -   With Jack T. Rametta
 
 *Working Papers*
 
-
 -   Negative Partisanship -- Disdain Towards Out-Party Leaders, Out-Party Supporters, or Both?
     -   With Alexa Bankert & Tabitha Lamberth
+-   Something’s wrong with the kids: The ubiquitous relationship between youth and support for political violence
+    -   With Jack T. Rametta & Alexa Federice
+-   (Un)Civil Norms and Political Socialization
+    -   With Ryan D. Enos
 -   [Towards a General Methodology of Bridging Ideological Spaces](https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces)
     -   With Tzu-Ping Liu & Gento Kato
+-   [The Dangers of Calculating Conditional Effects: A Reevaluation of Barber and Pope (2019)](https://osf.io/preprints/osf/hwzsu)
+    -   With Jack T. Rametta
 -   Progressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research
     -   With Tzu-Ping Liu
 -   Rational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972--2020
