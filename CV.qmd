@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: "2/5/25"
+date: "2/18/25"
 format: html
 editor: visual
 ---

@@ -20,6 +20,8 @@ format: html
 
 ### *News & Updates*
 
+My paper with [Nicolás de la Cerda](https://nicolasdelacerda.com/) and [Jack T. Rametta](http://jackrametta.com/), "[Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support](https://osf.io/preprints/osf/4k38a)", has been conditionally accepted at ***Political Behavior***. This paper leverages Causal Forest to explore the conditional effects of partisan cues (as you may have guessed, affect matters but ideology doesn't).
+
 My frequent collaborator, [Jack T. Rametta](http://jackrametta.com/), and I will be teaching an ICPSR Summer Program Topical Workshop titled ["Causal Machine Learning for Observational and Experimental Research"](https://myumi.ch/zXJWb). If you're interested in our CML work, definitely check this class out!
 
 Relatedly, our working paper ["Causal Forest and Doubly Robust Machine Learning for Political Science"](https://osf.io/preprints/osf/nm9de) is now available on OSF.

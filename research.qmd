@@ -9,6 +9,10 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 [**Forthcoming**]{.underline}
 
+-   [Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support](https://osf.io/preprints/osf/4k38a)
+    -   With Nicolás de la Cerda & Jack T. Rametta 
+    -   Conditionally accepted at ***Political Behavior***
+
 -   *Advanced Machine Learning for Experiments in the Social Sciences*
     -   With Jack T. Rametta & Christopher D. Hare
     -   Under advance contract for publication in the [Cambridge Elements Experimental Political Science Series](https://www.cambridge.org/core/publications/elements/experimental-political-science)
@@ -30,10 +34,7 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 [**Research in Preparation**]{.underline}
 
-*Revise & Resubmit*
-
--   [Affect, Not Ideology: The Psychological Mechanisms of Partisan Information Processing](https://osf.io/preprints/osf/4k38a)
-    -   With Nicolás de la Cerda & Jack T. Rametta at ***Political Behavior***
+<!-- *Revise & Resubmit* -->
 
 *Under Review*
 
