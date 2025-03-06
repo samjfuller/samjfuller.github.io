@@ -11,7 +11,7 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 -   [Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support](https://osf.io/preprints/osf/4k38a)
     -   With Nicolás de la Cerda & Jack T. Rametta 
-    -   Conditionally accepted at ***Political Behavior***
+    -   Forthcoming at ***Political Behavior***
 
 -   *Advanced Machine Learning for Experiments in the Social Sciences*
     -   With Jack T. Rametta & Christopher D. Hare
@@ -34,14 +34,16 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 [**Research in Preparation**]{.underline}
 
-<!-- *Revise & Resubmit* -->
+*Revise & Resubmit*
+
+-   [Attitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander](https://osf.io/preprints/osf/bex4z)
+    -   With Hilary Izatt
+    -   Under R&R at ***Political Behavior***
 
 *Under Review*
 
 -   [The Balance Permutation Test: A Machine Learning Replacement for Balance Tables](https://osf.io/preprints/osf/xcwt9)
     -   With Jack T. Rametta
--   [Attitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander](https://osf.io/preprints/osf/bex4z)
-    -   With Hilary Izatt
 -   [Causal Forest and Doubly Robust Machine Learning for Political Science](https://osf.io/preprints/osf/nm9de)
     -   With Jack T. Rametta
 
