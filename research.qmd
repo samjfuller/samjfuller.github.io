@@ -5,13 +5,7 @@ image: /images/combined_plot.png
 
 ![](/images/combined_plot.png){width="600"}
 
-In general, I'm deeply interested in measuring political attitudes and opinions primarily using dimensional scaling and machine learning. Furthermore, I have an ongoing research project with [Jack Rametta](https://jackrametta.com/) on incorporating machine learning into experimental analyses in the social sciences. So far, my previous research has worked to better understand COVID attitudes and behaviors and the dimensionality of affective polarization.
-
-[**Forthcoming**]{.underline}
-
--   [Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support](https://osf.io/preprints/osf/4k38a)
-    -   With Nicolás de la Cerda & Jack T. Rametta 
-    -   Forthcoming at ***Political Behavior***
+### [Forthcoming]{.underline}
 
 -   *Advanced Machine Learning for Experiments in the Social Sciences*
     -   With Jack T. Rametta & Christopher D. Hare
@@ -19,8 +13,12 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 
 "Machine learning tools are being more frequently adopted to various stages of the social science workflow. However, this field's growth has been limited by a lack of principled instruction on applying these methods and the esoteric nature of their current implementations. This Element introduces a comprehensive approach for social scientists looking to incorporate machine learning methods into experimental analysis. Specifically, we provide a flexible, data-driven approach to improve performance on tasks such as balance testing, attrition detection, the measurement of abstract concepts, and treatment effect estimation. Throughout, we detail the advantages of machine learning over traditional methods for these applications and provide practical guidance for evaluating validity, enhancing performance, and presenting results. We conclude by summarizing the myriad implications of these methods for experimental design, including how they integrate with pre-registration. Additionally, we provide a family of R packages with accompanying code and interactive walkthroughs to guide researchers through the host of methods and processes covered. This Element provides an approachable guide for social scientists who wish to apply cutting-edge machine learning methods to enhance the quality and resolution of their experimental research."
 
-[**Publications**]{.underline}
+### [Publications]{.underline}
 
+-   [Attitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander](https://link.springer.com/article/10.1007/s11109-025-10086-8)
+    -   With Hilary Izatt
+-   [Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support](https://link.springer.com/article/10.1007/s11109-025-10030-w)
+    -   With Nicolás de la Cerda & Jack T. Rametta
 -   [Populism and the affective partisan space in nine European publics: Evidence from a cross-national survey](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full)
     -   With Will Horne, James Adams, & Noam Gidron
 -   [Assessing the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic control methods approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374)
@@ -32,27 +30,21 @@ In general, I'm deeply interested in measuring political attitudes and opinions 
 -   [The Conditional Effects of Scientific Knowledge & Gender on Support for COVID-19 Government Containment Policies in a Partisan America](https://www.cambridge.org/core/journals/politics-and-gender/article/conditional-effect-of-scientific-knowledge-and-gender-on-support-for-covid19-government-containment-policies-in-a-partisan-america/C4AEB27D4046433749A883941AC74809)
     -   With Carlos Algara & Christopher D. Hare
 
-[**Research in Preparation**]{.underline}
+### [Research in Preparation]{.underline}
 
-*Revise & Resubmit*
+#### *Under Review*
 
--   [Attitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander](https://osf.io/preprints/osf/bex4z)
-    -   With Hilary Izatt
-    -   Under R&R at ***Political Behavior***
-
-*Under Review*
-
+-   [What Predicts Support for Political Violence? Results from a Machine Learning Meta-Reanalysis](https://osf.io/preprints/socarxiv/d968h)
+    -   With Jack T. Rametta & Alexa Federice
 -   [The Balance Permutation Test: A Machine Learning Replacement for Balance Tables](https://osf.io/preprints/osf/xcwt9)
     -   With Jack T. Rametta
 -   [Causal Forest and Doubly Robust Machine Learning for Political Science](https://osf.io/preprints/osf/nm9de)
     -   With Jack T. Rametta
 
-*Working Papers*
+#### *Working Papers*
 
 -   Negative Partisanship -- Disdain Towards Out-Party Leaders, Out-Party Supporters, or Both?
     -   With Alexa Bankert & Tabitha Lamberth
--   Something’s wrong with the kids: The ubiquitous relationship between youth and support for political violence
-    -   With Jack T. Rametta & Alexa Federice
 -   (Un)Civil Norms and Political Socialization
     -   With Ryan D. Enos
 -   [Towards a General Methodology of Bridging Ideological Spaces](https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces)

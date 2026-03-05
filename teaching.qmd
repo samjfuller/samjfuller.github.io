@@ -5,16 +5,25 @@ editor: visual
 
 This page is organized in three sections. The first is a record of courses that I have (or will be) teaching as the instructor of record. The second lists the courses that I've assisted with, both graduate and undergraduate. Primarily, I've worked on assisting [Chris Hare](https://www.christopherdhare.com/) with his machine learning course at the ICPSR Summer Program. The third is a summary of additional lectures and seminars I've conducted in and out of courses and within my department. I've included access to these documents where available.
 
-[**Instructor Positions**]{.underline}
--   ICPSR Summer Program, Topical Workshop: [Causal Machine Learning for Observational and Experimental Research](content/ICPSR_Causal_Machine_Learning_Syllabus_2025.pdf) (August 2025, with Jack T. Rametta)
+### [Instructor Positions]{.underline}
 
-[**TA Positions**]{.underline}
+-   ICPSR Summer Program, Topical Workshop: [Causal Machine Learning for Observational and Experimental Research](content/ICPSR_Causal_Machine_Learning_Syllabus_2026.pdf) (2025-26, with Jack T. Rametta)
 
-*Graduate Courses*
+### [TA Positions]{.underline}
+
+#### Graduate Courses
 
 -   ICPSR Summer Program: Machine Learning, Applications for Social Science Research (Summer 2019--2024, Christopher D. Hare)
 
-*Undergraduate Courses*
+#### Undergraduate Courses
+
+***Harvard***
+
+-   GOV 1314: Race in American Society (Spring 2026, Marcel Roman)
+
+-   GOV 1372: Political Psychology (Fall 2025, Ryan D. Enos)
+
+***UC Davis***
 
 -   POL 051: The Scientific Study of Politics (Research Methods) (Spring 2020, Christopher D. Hare)
 
@@ -22,7 +31,11 @@ This page is organized in three sections. The first is a record of courses that 
 
 -   POL 012A: Elections & Voting Behavior (Winter 2018, Christopher D. Hare)
 
-[**Lectures, Labs, & Workshops**]{.underline}
+### [Lectures, Labs, & Workshops]{.underline}
+
+-   [Binghamton Causal Machine Learning Lecture](content/CF_for_Political_Science_Slides__Binghamton_.pdf): Presented to the Political Science Research Workshop.
+
+-   [2024 ICPSR Blalock Lecture on Causal Machine Learning](content/icpsr_2024_slides.pdf): Taught at the ICPSR Summer Program.
 
 -   [Introduction to R](content/Intro_to_R_Lab.pdf): Taught at the ICPSR Summer Program and to incoming students at UC Davis.
 
