@@ -31,6 +31,8 @@ editor: visual
 
 ### [Lectures, Labs, & Workshops]{.underline}
 
+-   [Northwestern Causal Machine Learning Lecture](content/Northwestern_Lecture_Slides.pdf): Presented to the Political Science Research Workshop.
+
 -   [Binghamton Causal Machine Learning Lecture](content/CF_for_Political_Science_Slides__Binghamton_.pdf): Presented to the Political Science Research Workshop.
 
 -   [2024 ICPSR Blalock Lecture on Causal Machine Learning](content/icpsr_2024_slides.pdf): Taught at the ICPSR Summer Program.
