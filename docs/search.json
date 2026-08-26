@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach quantitative methods, causal inference, machine learning, and American politics. I am especially interested in helping students connect modern statistical tools to real research questions in political science and the social sciences."
+  },
+  {
+    "objectID": "teaching.html#featured-materials",
+    "href": "teaching.html#featured-materials",
+    "title": "Teaching",
+    "section": "Featured Materials",
+    "text": "Featured Materials\n\n\nHarvard Political Methodology\nCourses in data science, data analysis, and applied machine learning for political science and the social sciences.\n\nGOV 50 Course Website\n\n\n\nCausal Machine Learning Course\nTopical workshop syllabus for ICPSR’s Causal Machine Learning for Observational and Experimental Research.\n\n2026 Syllabus 2025 Syllabus\n\n\n\nCausal Machine Learning Lectures\nSlides from invited and summer-program lectures on causal forests, doubly robust machine learning, and applied political science.\n\nNorthwestern Binghamton ICPSR 2024\n\n\n\nIntroduction to R\nIntroductory R lab materials used at the ICPSR Summer Program and with incoming students at UC Davis.\n\nLab PDF\n\n\n\nMachine Learning Labs\nApplied lab materials for unsupervised learning and interpretable machine learning.\n\nPCA/cPCA PDF PCA/cPCA Code IML Code"
+  },
+  {
+    "objectID": "teaching.html#instructor-positions",
+    "href": "teaching.html#instructor-positions",
+    "title": "Teaching",
+    "section": "Instructor Positions",
+    "text": "Instructor Positions\n\nHarvard University, Lecturer in Political Methodology: GOV 50 Data Science for the Social Sciences; GOV 51 Data Analysis and Politics; GOV 2018 Applied Machine Learning (PhD class) (2026)\nICPSR Summer Program, Topical Workshop: Causal Machine Learning for Observational and Experimental Research (2025-26, with Jack T. Rametta)"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistantships",
+    "href": "teaching.html#teaching-assistantships",
+    "title": "Teaching",
+    "section": "Teaching Assistantships",
+    "text": "Teaching Assistantships\n\nGraduate Courses\n\nICPSR Summer Program: Machine Learning, Applications in Social Science Research (Summer 2019-2026, Christopher D. Hare)\nICPSR Summer Program: Machine Learning, Applications in Social Science Research, one-week workshop (Summer 2020)\n\n\n\nUndergraduate Courses\n\nHarvard\n\nGOV 1314: Race in American Society (Spring 2026, Marcel Roman)\nGOV 1372: Political Psychology (Fall 2025, Ryan D. Enos)\n\n\n\nUC Davis\n\nPOL 051: The Scientific Study of Politics (Research Methods) (Spring 2020, Christopher D. Hare)\nPOL 147B: The Legislative Process (U.S. Congress) (Spring 2018, Erik Engstrom)\nPOL 012A: Elections & Voting Behavior (Winter 2018, Christopher D. Hare)"
+  },
+  {
+    "objectID": "teaching.html#lectures-labs-workshops",
+    "href": "teaching.html#lectures-labs-workshops",
+    "title": "Teaching",
+    "section": "Lectures, Labs, & Workshops",
+    "text": "Lectures, Labs, & Workshops\n\nNorthwestern Causal Machine Learning Lecture: Presented in POL 490, Machine Learning in Political Science.\nBinghamton Causal Machine Learning Lecture: Presented to the Political Science Research Workshop.\n2024 ICPSR Blalock Lecture on Causal Machine Learning: Taught at the ICPSR Summer Program.\nIntroduction to R: Taught at the ICPSR Summer Program and to incoming students at UC Davis.\nIntroduction to ML in Political Science: Taught at the Inaugural Methods Lunch Talk Series at UC Davis.\nPCA & cPCA Lab (For ICPSR): Taught as part of a lecture on unsupervised machine learning.\n\nCode html\n\nInterpretable Machine Learning Lab (For ICPSR): Taught as an additional lab.\n\nCode html"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Fuller",
+    "section": "",
+    "text": "Scholar\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\n\n\n\nCo-founded with Gal Bitton and Jack T. Rametta, we are hosting our first meeting as an APSA Pre-Conference on 9/2/26 at Harvard University.\n\nJoin our listserv Check out our website\n\n\n\n\nMy substantive research examines partisanship as a social identity and its relationship to democratic satisfaction, anti-democratic attitudes, partisan cues, gerrymandering, and political violence.\n\nMore on my research\n\n\n\n\nWith Jack T. Rametta and Christopher D. Hare, I am writing a forthcoming Cambridge Element on advanced machine learning for experiments in the social sciences.\n\nWorking Draft"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Sam Fuller",
+    "section": "",
+    "text": "I co-founded the Democracy and Political Violence Collaborative with Gal Bitton and Jack T. Rametta, and my machine learning meta-reanalysis project on support for political violence is under review at AJPS.\n\n\n\nWith Jack T. Rametta and Christopher D. Hare, I am writing a forthcoming Cambridge Element on advanced machine learning for experiments in the social sciences.\n\n\n\nMy substantive research examines partisanship as a social identity and its relationship to democratic satisfaction, anti-democratic attitudes, partisan cues, gerrymandering, and political violence."
+  },
+  {
+    "objectID": "index.html#news-updates",
+    "href": "index.html#news-updates",
+    "title": "Sam Fuller",
+    "section": "News & Updates",
+    "text": "News & Updates\n\nI am serving as Lecturer in Political Methodology at Harvard University during the 2026 school year, teaching the undergraduate methods sequence and a PhD course on machine learning.\nThe first meeting of the Democracy and Political Violence Collaborative will be a pre-APSA conference at Harvard University on September 2, 2026.\nJack T. Rametta and I taught our 2026 ICPSR Summer Program Topical Workshop, “Causal Machine Learning for Observational and Experimental Research”.\nMy machine learning meta-reanalysis project “What Predicts Support for Political Violence?” with Jack T. Rametta and Alexa Federice is available on OSF."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Sam Fuller",
+    "section": "About Me",
+    "text": "About Me\nI am a Postdoctoral Fellow in Public Opinion and Survey Methodology at the Center for American Political Studies in the Department of Government at Harvard University, and a Lecturer in Political Methodology in Harvard’s Department of Government.\nI also direct the Harvard Digital Labs for the Social Sciences and serve as Academic Lead for the Harvard CAPS-Harris Poll.\nMy substantive research focuses on the relationship between partisanship as a social identity and anti-democratic attitudes, including gerrymandering and support for political violence. Much of my work here focuses on leveraging measurement and scaling to better capture both the structure of partisanship and these anti-democratic attitudes. I am also working with Professor Caitlin Patler on a project that uses Doubly Robust Machine Learning (DRML) to estimate the causal effects of immigration detention/incarceration on mental and physical health.\nMy methodological research is focused on creating new, and applying existing, machine learning methods for the analysis of experimental and survey data. I care deeply about bridging the gap between methodologists who create these methods and substantive scholars who would benefit from using them. In that vein, I am working on a series of projects with Jack T. Rametta that introduces standardized, easy-to-use ML methods for analyzing experimental data.\nI have published in journals such as Political Behavior, PLOS One, Social Science Quarterly, Politics & Gender, and Frontiers in Political Science. My previous work focuses on COVID-19 attitudes, behaviors, and policy outcomes, as well as multidimensional scaling approaches to measuring ideology and populism in Western Europe."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sam Fuller",
+    "section": "Education",
+    "text": "Education\nPhD in Political Science | University of California, Davis\nBS in Political Science & Economics | Berry College"
+  },
+  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculum Vitae",
@@ -7,52 +77,38 @@
     "text": "You can find my curriculum vitae below, or you can download my CV as a PDF.\nUnable to display PDF file. Download instead."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Fun Facts",
-    "section": "",
-    "text": "Name: Sam Fuller\nOcupation: PhD Candidate in Political Science, University of Calfornia, Davis\nHobbies: Hiking and watching both great and garbage movies.\nHistory: Originally from the Southeast (Tennessee & Georgia)\n\n\n\n\n\n\n\nHiking and Travel Pictures\n\n\n\n\n\nLake Berryessa (2020)\n\n\n\n\n\nYosemite’s Vernal Falls (2019)\n\n\n\n\n\nThe Matterhorn (2017)\n\n\n\n\n\nQuilotoa, Ecuador (2015)\n\n\n\n\n\nThe Grand Canyon (2017)"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Forthcoming\n\nAdvanced Machine Learning for Experiments in the Social Sciences\n\nWith Jack T. Rametta & Christopher D. Hare\nUnder advance contract for publication in the Cambridge Elements Experimental Political Science Series\n\n\n“Machine learning tools are being more frequently adopted to various stages of the social science workflow. However, this field’s growth has been limited by a lack of principled instruction on applying these methods and the esoteric nature of their current implementations. This Element introduces a comprehensive approach for social scientists looking to incorporate machine learning methods into experimental analysis. Specifically, we provide a flexible, data-driven approach to improve performance on tasks such as balance testing, attrition detection, the measurement of abstract concepts, and treatment effect estimation. Throughout, we detail the advantages of machine learning over traditional methods for these applications and provide practical guidance for evaluating validity, enhancing performance, and presenting results. We conclude by summarizing the myriad implications of these methods for experimental design, including how they integrate with pre-registration. Additionally, we provide a family of R packages with accompanying code and interactive walkthroughs to guide researchers through the host of methods and processes covered. This Element provides an approachable guide for social scientists who wish to apply cutting-edge machine learning methods to enhance the quality and resolution of their experimental research.”\n\n\nPublications\n\nAttitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander\n\nWith Hilary Izatt\n\nAffect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support\n\nWith Nicolás de la Cerda & Jack T. Rametta\n\nPopulism and the affective partisan space in nine European publics: Evidence from a cross-national survey\n\nWith Will Horne, James Adams, & Noam Gidron\n\nAssessing the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic control methods approach\n\nWith Sara Kazemian, Carlos Algara, & Daniel J. Simmons\n\nThe role of race and scientific trust on support for COVID-19 social distancing measures in the United States\n\nWith Sara Kazemian & Carlos Algara\n\nThe Interactive Effects of Scientific Knowledge and Gender on COVID‐19 Social Distancing Compliance\n\nWith Carlos Algara, Christopher D. Hare, & Sara Kazemian\n\nThe Conditional Effects of Scientific Knowledge & Gender on Support for COVID-19 Government Containment Policies in a Partisan America\n\nWith Carlos Algara & Christopher D. Hare\n\n\n\n\nResearch in Preparation\n\nUnder Review\n\nWhat Predicts Support for Political Violence? Results from a Machine Learning Meta-Reanalysis\n\nWith Jack T. Rametta & Alexa Federice\n\nThe Balance Permutation Test: A Machine Learning Replacement for Balance Tables\n\nWith Jack T. Rametta\n\nCausal Forest and Doubly Robust Machine Learning for Political Science\n\nWith Jack T. Rametta\n\n\n\n\nWorking Papers\n\nNegative Partisanship – Disdain Towards Out-Party Leaders, Out-Party Supporters, or Both?\n\nWith Alexa Bankert & Tabitha Lamberth\n\n(Un)Civil Norms and Political Socialization\n\nWith Ryan D. Enos\n\nTowards a General Methodology of Bridging Ideological Spaces\n\nWith Tzu-Ping Liu & Gento Kato\n\nThe Dangers of Calculating Conditional Effects: A Reevaluation of Barber and Pope (2019)\n\nWith Jack T. Rametta\n\nProgressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research\n\nWith Tzu-Ping Liu\n\nRational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972–2020\n\nWith Carlos Algara"
+    "text": "My research sits at the intersection of political behavior, public opinion, experiments, and machine learning methods for social science. Substantively, I study partisanship, polarization, anti-democratic attitudes, and political violence. Methodologically, I work on practical tools for experimental analysis, survey research, and causal inference.\nProject links include articles, preprints, code, supplements, and replication materials where publicly available."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Instructor Positions\n\nICPSR Summer Program, Topical Workshop: Causal Machine Learning for Observational and Experimental Research (2025-26, with Jack T. Rametta)\n\n\n\nTA Positions\n\nGraduate Courses\n\nICPSR Summer Program: Machine Learning, Applications for Social Science Research (Summer 2019–2024, Christopher D. Hare)\n\n\n\nUndergraduate Courses\nHarvard\n\nGOV 1314: Race in American Society (Spring 2026, Marcel Roman)\nGOV 1372: Political Psychology (Fall 2025, Ryan D. Enos)\n\nUC Davis\n\nPOL 051: The Scientific Study of Politics (Research Methods) (Spring 2020, Christopher D. Hare)\nPOL 147B: The Legislative Process (U.S. Congress) (Spring 2018, Erik Engstrom)\nPOL 012A: Elections & Voting Behavior (Winter 2018, Christopher D. Hare)\n\n\n\n\nLectures, Labs, & Workshops\n\nNorthwestern Causal Machine Learning Lecture: Presented to the Political Science Research Workshop.\nBinghamton Causal Machine Learning Lecture: Presented to the Political Science Research Workshop.\n2024 ICPSR Blalock Lecture on Causal Machine Learning: Taught at the ICPSR Summer Program.\nIntroduction to R: Taught at the ICPSR Summer Program and to incoming students at UC Davis.\nIntroduction to ML in Political Science: Taught at the Inaugural Methods Lunch Talk Series at UC Davis.\nPCA & cPCA Lab (For ICPSR): Taught as part of a lecture on unsupervised machine learning.\n\nCode html\n\nInterpretable Machine Learning Lab (For ICPSR): Taught as an additional lab.\n\nCode html"
+    "objectID": "research.html#forthcoming",
+    "href": "research.html#forthcoming",
+    "title": "Research",
+    "section": "Forthcoming",
+    "text": "Forthcoming\n\n\nAdvanced Machine Learning for Experiments in the Social Sciences\n\nForthcoming Cambridge Element · with Jack T. Rametta & Christopher D. Hare\n\nThis Element introduces machine learning methods for balance testing, attrition detection, measurement, and treatment effect estimation in experimental political science.\n\nWorking draft"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\n\nAttitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander\n\nPolitical Behavior · with Hilary Izatt\n\nDevelops a sports-based battery measuring fairness and competitiveness and links those traits to support for partisan gerrymandering.\n\nArticle Replication\n\n\n\nAffect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support\n\nPolitical Behavior · with Nicolás de la Cerda & Jack T. Rametta\n\nUses causal forests to examine heterogeneity in partisan cue effects and shows how affective attachments shape policy responsiveness.\n\nArticle Replication\n\n\n\nPopulism and the Affective Partisan Space in Nine European Publics\n\nFrontiers in Political Science · with Will Horne, James Adams, & Noam Gidron\n\nMaps affective party evaluations across European publics and examines how citizens’ affective ratings relate to party populism and ideology.\n\nArticle Replication\n\n\n\nAssessing the Effectiveness of COVID-19 Vaccine Lotteries\n\nPLOS One · with Sara Kazemian, Carlos Algara, & Daniel J. Simmons\n\nUses cross-state synthetic control methods to evaluate whether COVID-19 vaccine lottery programs increased vaccination uptake.\n\nArticle Replication\n\n\n\nThe Role of Race and Scientific Trust on Support for COVID-19 Social Distancing Measures in the United States\n\nPLOS One · with Sara Kazemian & Carlos Algara\n\nExamines how scientific trust shapes support for social distancing policies across racial and ethnic groups in the United States.\n\nArticle Replication\n\n\n\nThe Interactive Effects of Scientific Knowledge and Gender on COVID-19 Social Distancing Compliance\n\nSocial Science Quarterly · with Carlos Algara, Christopher D. Hare, & Sara Kazemian\n\nStudies the interaction between scientific knowledge and gender in explaining COVID-19 social distancing compliance.\n\nArticle\n\n\n\nThe Conditional Effects of Scientific Knowledge & Gender on Support for COVID-19 Government Containment Policies in a Partisan America\n\nPolitics & Gender · with Carlos Algara & Christopher D. Hare\n\nAnalyzes how scientific knowledge and gender condition support for COVID-19 government containment policies.\n\nArticle Supplementary material"
+  },
+  {
+    "objectID": "research.html#research-in-progress",
+    "href": "research.html#research-in-progress",
+    "title": "Research",
+    "section": "Research in Progress",
+    "text": "Research in Progress\n\nUnder Review\n\n\n\nWhat Predicts Support for Political Violence? Results from a Machine Learning Meta-Reanalysis\n\nUnder review at AJPS · July 2026 · with Jack T. Rametta & Alexa Federice\n\nAnalyzes 54 datasets across the social sciences to identify predictors of support for political violence and related attitudes.\n\nPreprint\n\n\n\nThe Changing Landscape of Democratic (Dis)Satisfaction: Results from the American National Election Study 1996-2024\n\nUnder review at BJPS · July 2026 · with Neil S. Williams & Jack T. Rametta\n\nUses ANES data from 1996-2024 to examine changes in democratic satisfaction and dissatisfaction.\n\nPreprint\n\n\n\nPolicy or Partisanship? How Polarization Biases Valence Evaluations in the U.S., U.K., and Taiwan\n\nUnder review at BJPS · July 2026 · with Tzu-Ping Liu\n\nExamines how polarization biases valence evaluations across three political contexts.\n\nPreprint\n\n\n\nLeaving Money on the Table: A Monte-Carlo Study Comparing Causal Forest and Standard Regression Models for Experiments\n\nUnder review at JOP · June 2026 · with Jack T. Rametta\n\nCompares causal forests and standard regression models for experimental analysis using Monte Carlo simulations.\n\nPreprint\n\n\n\nAre Random Forests Still “Good Enough”? Tabular Prior-Data Fitted Networks for Predictive and Causal Tasks\n\nUnder review at Political Analysis · July 2026 · with Jack T. Rametta\n\nEvaluates tabular prior-data fitted networks for predictive and causal tasks in social science data.\n\nPreprint\n\n\n\nMore Than a Feeling: Theoretical and Empirical Gaps Between Out-Party Affect and Negative Partisanship\n\nUnder review at Political Psychology · July 2026 · with Alexa Bankert & Tabitha Lamberth\n\nClarifies theoretical and empirical differences between out-party affect and negative partisanship.\n\n\n\nWorking Papers\n\n\n\nThe Balance Permutation Test: A Machine Learning Replacement for Balance Tables\n\nWorking paper · with Jack T. Rametta · presented at MPSA 2023\n\nIntroduces a machine-learning balance test for experimental designs and motivates the accompanying MLbalance R package.\n\nPreprint MLbalance\n\n\n\nThe Heterogeneous Influence of Democratic Attitudes and Electoral Advantage on Election Policy Attitudes\n\nWorking paper · with Hilary Izatt · presented at the New England Area Political Psychology Meeting\n\n\n\nIncivility Spirals\n\nWorking paper · with Ryan D. Enos · presented at the Social and Moral Norms, Political Violence, and Threats to Democracy Workshop at Nuffield College, Oxford University\n\n\n\nThe Dangers of Calculating Conditional Effects: A Reevaluation of Barber and Pope (2019)\n\nWorking paper · with Jack T. Rametta · presented at MPSA 2024\n\n\nPreprint\n\n\n\nRational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972-2020\n\nWorking paper · with Carlos Algara & Jack T. Rametta · presented at SPSA 2026"
+  },
+  {
+    "objectID": "index.html#highlighted-work",
+    "href": "index.html#highlighted-work",
     "title": "Sam Fuller",
     "section": "",
-    "text": "News & Updates\nMy machine learning meta-reanalysis project “What Predicts Support for Political Violence?” with Jack T. Rametta and Alexa Federice is now available on SocArXiv. We analyze 54(!) datasets across the social sciences and find that youth, but not gender, is highly predictive of support for political violence and conditions related experimental treatments in recent data.\nMy frequent collaborator, Jack T. Rametta, and I will again be teaching our ICPSR Summer Program Topical Workshop titled “Causal Machine Learning for Observational and Experimental Research”. If you’re interested in our CML work, definitely check this class out!\nOur related working paper “Causal Forest and Doubly Robust Machine Learning for Political Science” is available on OSF.\n\n\n\n  \n    \n\n    \n  \n    \n     Scholar\n  \n  \n    \n     Github\n  \n\n  \n  \n\nAbout Me\nHi there! I’m a Postdoctoral Fellow in Public Opinion and Survey Methodology at the Center for American Political Studies in the Department of Government at Harvard University.\nMy substantive research focuses on the relationship between partisanship as a social identity and anti-democratic attitudes, including gerrymandering and support for political violence. Much of my work here focuses on leveraging measurement and scaling to better capture both the structure of partisanship and these anti-democratic attitudes. Additionally, I am also interested in a wide-array of social science questions, including those in Sociology. I am currently working on a project with Professor Caitlin Patler that leverages machine learning (specifically, Doubly Robust Machine Learning (DRML)) to estimate the causal effects of immigration detention/incarceration on mental and physical health.\nMy methodological research is primarily focused on creating new, and applying existing, machine learning methods for the analysis of experimental and survey data. Importantly, I care deeply about bridging the gap between methodologists who create theses methods and substantive scholars who would benefit greatly from using these methods. In that vein, I’m currently working on a series of projects with Jack T. Rametta that introduces standardized, easy-to-use ML methods for analyzing experimental data. Our first methodological and substantive papers in this series are currently under review and available here and here on OSF, respectively. I’m more than happy to field any questions and I’m definitely interested in receiving useful feedback!\nI have published in journals such as Political Behavior, PLOS One, Social Science Quarterly, Politics & Gender, and Frontiers in Political Science. My previous work focuses primarily on COVID-19 attitudes, behaviors, and policy outcomes. I also have a paper on leveraging multidimensional scaling to measure ideology and populism in Western Europe (I think it’s a neat paper, check it out!).\n\n\n\nResearch interests\nMachine Learning | Experiments | Partisanship | Anti-Democratic Attitudes | Political Violence\n\n\nEducation\n🎓 PhD in Political Science | University of California, Davis\n🎓 BS in Political Science & Economics | Berry College"
-  },
-  {
-    "objectID": "teaching.html#instructor-positions",
-    "href": "teaching.html#instructor-positions",
-    "title": "Teaching",
-    "section": "Instructor Positions",
-    "text": "Instructor Positions\n\nICPSR Summer Program, Topical Workshop: Causal Machine Learning for Observational and Experimental Research (2025-26, with Jack T. Rametta)"
-  },
-  {
-    "objectID": "teaching.html#ta-positions",
-    "href": "teaching.html#ta-positions",
-    "title": "Teaching",
-    "section": "TA Positions",
-    "text": "TA Positions\nGraduate Courses\n\nICPSR Summer Program: Machine Learning, Applications for Social Science Research (Summer 2019–2024, Christopher D. Hare)\n\nUndergraduate Courses\nHarvard\n\nGOV 1314: Race in American Society (Spring 2026, Marcel Roman)\nGOV 1372: Political Psychology (Fall 2025, Ryan D. Enos)\n\nUC Davis\n\nPOL 051: The Scientific Study of Politics (Research Methods) (Spring 2020, Christopher D. Hare)\nPOL 147B: The Legislative Process (U.S. Congress) (Spring 2018, Erik Engstrom)\nPOL 012A: Elections & Voting Behavior (Winter 2018, Christopher D. Hare)"
-  },
-  {
-    "objectID": "teaching.html#lectures-labs-workshops",
-    "href": "teaching.html#lectures-labs-workshops",
-    "title": "Teaching",
-    "section": "Lectures, Labs, & Workshops",
-    "text": "Lectures, Labs, & Workshops\n\nBinghamton Causal Machine Learning Lecture: Presented to the Political Science Research Workshop.\n2024 ICPSR Blalock Lecture on Causal Machine Learning: Taught at the ICPSR Summer Program.\nIntroduction to R: Taught at the ICPSR Summer Program and to incoming students at UC Davis.\nIntroduction to ML in Political Science: Taught at the Inaugural Methods Lunch Talk Series at UC Davis.\nPCA & cPCA Lab (For ICPSR): Taught as part of a lecture on unsupervised machine learning.\n\nCode html\n\nInterpretable Machine Learning Lab (For ICPSR): Taught as an additional lab.\n\nCode html"
+    "text": "Co-founded with Gal Bitton and Jack T. Rametta, we are hosting our first meeting as an APSA Pre-Conference on 9/2/26 at Harvard University.\n\nJoin our listserv Check out our website\n\n\n\n\nMy substantive research examines partisanship as a social identity and its relationship to democratic satisfaction, anti-democratic attitudes, partisan cues, gerrymandering, and political violence.\n\nMore on my research\n\n\n\n\nWith Jack T. Rametta and Christopher D. Hare, I am writing a forthcoming Cambridge Element on advanced machine learning for experiments in the social sciences.\n\nWorking Draft"
   }
 ]

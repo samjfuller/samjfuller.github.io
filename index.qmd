@@ -1,6 +1,6 @@
 ---
 title: "Sam Fuller"
-subtitle: "Postdoctoral Fellow <br> Machine Learning & Experiments <br> Polarization & Partisanship <br> Political Violence"
+subtitle: "Postdoctoral Fellow <br> Lecturer in Political Methodology <span class='subtitle-rule' aria-hidden='true'></span> Machine Learning & Experiments <br> Political Violence & Democracy"
 image: /images/me_2.jpg
 toc: false
 about:
@@ -18,36 +18,71 @@ about:
 format: html
 ---
 
-### *News & Updates*
+:::::::::: {#hero-heading .hero-work}
+## Highlighted Work
 
-My machine learning meta-reanalysis project ["What Predicts Support for Political Violence?"](https://osf.io/preprints/socarxiv/d968h) with [Jack T. Rametta](http://jackrametta.com/) and [Alexa Federice](https://alexafederice.com/) is now available on SocArXiv. We analyze 54(!) datasets across the social sciences and find that youth, but not gender, is highly predictive of support for political violence and conditions related experimental treatments in recent data.
+::::::::: feature-grid
+:::: feature-card
+### Democracy & Political Violence Collaborative
 
-My frequent collaborator, [Jack T. Rametta](http://jackrametta.com/), and I will again be teaching our ICPSR Summer Program Topical Workshop titled ["Causal Machine Learning for Observational and Experimental Research"](https://web.cvent.com/event/4ea180c8-1f25-4314-8da9-145297b14113/websitePage:17e8f24b-550c-4a09-a091-06ccd6f667d5?session=82cf0f7c-ed57-4bb5-9273-82ec47756fdb&shareLink=true). If you're interested in our CML work, definitely check this class out!
+Co-founded with [Gal Bitton](https://galbitton5.github.io/) and [Jack T. Rametta](http://jackrametta.com/), we are hosting our first meeting as an APSA Pre-Conference on 9/2/26 at Harvard University.
 
-Our related working paper ["Causal Forest and Doubly Robust Machine Learning for Political Science"](https://osf.io/preprints/osf/nm9de) is available on OSF.
-
-------------------------------------------------------------------------
-
-::: {#hero-heading}
-### About Me
-
-Hi there! I'm a Postdoctoral Fellow in Public Opinion and Survey Methodology at the [Center for American Political Studies](https://caps.gov.harvard.edu/) in the [Department of Government](https://www.gov.harvard.edu/) at Harvard University.
-
-My substantive research focuses on the relationship between partisanship as a social identity and anti-democratic attitudes, including [gerrymandering](https://osf.io/preprints/osf/bex4z) and support for political violence. Much of my work here focuses on leveraging measurement and scaling to better capture both the structure of partisanship and these anti-democratic attitudes. Additionally, I am also interested in a wide-array of social science questions, including those in Sociology. I am currently working on a project with [Professor Caitlin Patler](https://caitlinpatler.com/) that leverages machine learning (specifically, [Doubly Robust Machine Learning (DRML)](https://osf.io/preprints/osf/nm9de)) to estimate the causal effects of immigration detention/incarceration on mental and physical health.
-
-My methodological research is primarily focused on creating new, and applying existing, machine learning methods for the analysis of experimental and survey data. Importantly, I care deeply about bridging the gap between methodologists who create theses methods and substantive scholars who would benefit greatly from using these methods. In that vein, I'm currently working on a series of projects with [Jack T. Rametta](https://jackrametta.com/) that introduces standardized, easy-to-use ML methods for analyzing experimental data. Our first methodological and substantive papers in this series are currently under review and available [here](https://osf.io/preprints/osf/xcwt9) and [here](https://osf.io/preprints/osf/4k38a) on OSF, respectively. I'm more than happy to field any questions and I'm definitely interested in receiving useful feedback!
-
-I have published in journals such as Political Behavior, PLOS One, Social Science Quarterly, Politics & Gender, and Frontiers in Political Science. My previous work focuses primarily on [COVID-19 attitudes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127), [behaviors](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4), and [policy outcomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374). I also have a [paper](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full) on leveraging multidimensional scaling to measure ideology and populism in Western Europe (I think it's a neat paper, check it out!).
-
-------------------------------------------------------------------------
-
-### Research interests
-
-Machine Learning \| Experiments \| Partisanship \| Anti-Democratic Attitudes \| Political Violence
-
-### Education
-
-**🎓 PhD in Political Science** \| University of California, Davis
-
-**🎓 BS in Political Science & Economics** \| Berry College
+::: pub-actions
+[Join our listserv](https://groups.io/g/dpv){.resource-link} [Check out our website](https://dpvconf.com/){.resource-link}
 :::
+::::
+
+:::: feature-card
+### Partisanship, Democratic Attitudes, & Support for Political Violence
+
+My substantive research examines partisanship as a social identity and its relationship to democratic satisfaction, anti-democratic attitudes, partisan cues, gerrymandering, and political violence.
+
+::: pub-actions
+[More on my research](research.qmd){.resource-link}
+:::
+::::
+
+:::: feature-card
+### Causal Machine Learning
+
+With [Jack T. Rametta](https://jackrametta.com/) and [Christopher D. Hare](https://christopherdanielhare.github.io/about.html), I am writing a forthcoming Cambridge Element on advanced machine learning for experiments in the social sciences.
+
+::: pub-actions
+[Working draft](https://osf.io/preprints/osf/nm9de){.resource-link}
+:::
+::::
+:::::::::
+::::::::::
+
+::: home-intro
+I am a political scientist studying how partisanship, identity, and political conflict shape anti-democratic attitudes and behavior. Methodologically, I work on machine learning tools for experiments and surveys, with an emphasis on making flexible models useful for substantive researchers.
+:::
+
+::: link-row
+[Research](research.qmd){.resource-link} [Teaching](teaching.qmd){.resource-link} [CV](CV.qmd){.resource-link}
+:::
+
+## News & Updates
+
+- I am serving as Lecturer in Political Methodology at Harvard University during the 2026 school year, teaching the undergraduate methods sequence and a PhD course on machine learning.
+- The first meeting of the [Democracy and Political Violence Collaborative](https://dpvconf.com/) will be a pre-APSA conference at Harvard University on September 2, 2026.
+- [Jack T. Rametta](http://jackrametta.com/) and I taught our 2026 ICPSR Summer Program Topical Workshop, ["Causal Machine Learning for Observational and Experimental Research"](https://web.cvent.com/event/4ea180c8-1f25-4314-8da9-145297b14113/websitePage:17e8f24b-550c-4a09-a091-06ccd6f667d5?session=82cf0f7c-ed57-4bb5-9273-82ec47756fdb&shareLink=true).
+- My machine learning meta-reanalysis project ["What Predicts Support for Political Violence?"](https://osf.io/preprints/socarxiv/d968h) with [Jack T. Rametta](http://jackrametta.com/) and [Alexa Federice](https://alexafederice.com/) is available on OSF.
+
+## About Me
+
+I am a Postdoctoral Fellow in Public Opinion and Survey Methodology at the [Center for American Political Studies](https://caps.gov.harvard.edu/) in the [Department of Government](https://www.gov.harvard.edu/) at Harvard University, and a Lecturer in Political Methodology in Harvard's Department of Government.
+
+I also direct the [Harvard Digital Labs for the Social Sciences](https://dlabss.harvard.edu/) and serve as Academic Lead for the [Harvard CAPS-Harris Poll](https://harvardharrispoll.com/).
+
+My substantive research focuses on the relationship between partisanship as a social identity and anti-democratic attitudes, including [gerrymandering](https://osf.io/preprints/osf/bex4z) and support for political violence. Much of my work here focuses on leveraging measurement and scaling to better capture both the structure of partisanship and these anti-democratic attitudes. I am also working with [Professor Caitlin Patler](https://caitlinpatler.com/) on a project that uses [Doubly Robust Machine Learning (DRML)](https://osf.io/preprints/osf/nm9de) to estimate the causal effects of immigration detention/incarceration on mental and physical health.
+
+My methodological research is focused on creating new, and applying existing, machine learning methods for the analysis of experimental and survey data. I care deeply about bridging the gap between methodologists who create these methods and substantive scholars who would benefit from using them. In that vein, I am working on a series of projects with [Jack T. Rametta](https://jackrametta.com/) that introduces standardized, easy-to-use ML methods for analyzing experimental data.
+
+I have published in journals such as *Political Behavior*, *PLOS One*, *Social Science Quarterly*, *Politics & Gender*, and *Frontiers in Political Science*. My previous work focuses on [COVID-19 attitudes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127), [behaviors](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4), and [policy outcomes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374), as well as [multidimensional scaling approaches](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full) to measuring ideology and populism in Western Europe.
+
+## Education
+
+**PhD in Political Science** \| University of California, Davis
+
+**BS in Political Science & Economics** \| Berry College

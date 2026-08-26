@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - content/**
+    - images/**
 
 website:
   title: "Sam Fuller"
@@ -32,16 +35,14 @@ website:
   page-footer: 
     left: "All content by Sam Fuller, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)"
   open-graph:
-    image: images/combined_plot.png
+    image: images/me_2.jpg
     site-name: "Sam Fuller, Political Scientist"
   google-analytics: "G-61BW6TLKYX"
 
 format:
   html:
     page-layout: full
-    theme: 
-      dark: [darkly, theme-dark.scss]
-      light: [flatly, theme-light.scss]
+    theme: [darkly, theme-dark.scss]
     css: style.css
     toc: true
 

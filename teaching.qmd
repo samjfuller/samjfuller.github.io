@@ -3,25 +3,90 @@ title: "Teaching"
 editor: visual
 ---
 
-### [Instructor Positions]{.underline}
+I teach quantitative methods, causal inference, machine learning, and American politics. I am especially interested in helping students connect modern statistical tools to real research questions in political science and the social sciences.
+
+## Featured Materials
+
+::: {.material-grid}
+::: {.material-card}
+### Harvard Political Methodology
+
+Courses in data science, data analysis, and applied machine learning for political science and the social sciences.
+
+::: {.pub-actions}
+[GOV 50 Course Website](https://samjfuller.github.io/gov50-f26/){.resource-link}
+:::
+:::
+
+::: {.material-card}
+### Causal Machine Learning Course
+
+Topical workshop syllabus for ICPSR's Causal Machine Learning for Observational and Experimental Research.
+
+::: {.pub-actions}
+[2026 Syllabus](content/ICPSR_Causal_Machine_Learning_Syllabus_2026.pdf){.resource-link}
+[2025 Syllabus](content/ICPSR_Causal_Machine_Learning_Syllabus_2025.pdf){.resource-link}
+:::
+:::
+
+::: {.material-card}
+### Causal Machine Learning Lectures
+
+Slides from invited and summer-program lectures on causal forests, doubly robust machine learning, and applied political science.
+
+::: {.pub-actions}
+[Northwestern](content/Northwestern_Lecture_Slides.pdf){.resource-link}
+[Binghamton](content/CF_for_Political_Science_Slides__Binghamton_.pdf){.resource-link}
+[ICPSR 2024](content/icpsr_2024_slides.pdf){.resource-link}
+:::
+:::
+
+::: {.material-card}
+### Introduction to R
+
+Introductory R lab materials used at the ICPSR Summer Program and with incoming students at UC Davis.
+
+::: {.pub-actions}
+[Lab PDF](content/Intro_to_R_Lab.pdf){.resource-link}
+:::
+:::
+
+::: {.material-card}
+### Machine Learning Labs
+
+Applied lab materials for unsupervised learning and interpretable machine learning.
+
+::: {.pub-actions}
+[PCA/cPCA PDF](content/ML_PCA_cPCA_Lab.pdf){.resource-link}
+[PCA/cPCA Code](content/PCA_cPCA.html){.resource-link}
+[IML Code](content/IML_lab_handout.html){.resource-link}
+:::
+:::
+:::
+
+## Instructor Positions
+
+-   Harvard University, Lecturer in Political Methodology: [GOV 50 Data Science for the Social Sciences](https://samjfuller.github.io/gov50-f26/); GOV 51 Data Analysis and Politics; GOV 2018 Applied Machine Learning (PhD class) (2026)
 
 -   ICPSR Summer Program, Topical Workshop: [Causal Machine Learning for Observational and Experimental Research](content/ICPSR_Causal_Machine_Learning_Syllabus_2026.pdf) (2025-26, with Jack T. Rametta)
 
-### [TA Positions]{.underline}
+## Teaching Assistantships
 
-#### Graduate Courses
+### Graduate Courses
 
--   ICPSR Summer Program: Machine Learning, Applications for Social Science Research (Summer 2019--2024, Christopher D. Hare)
+-   ICPSR Summer Program: Machine Learning, Applications in Social Science Research (Summer 2019-2026, Christopher D. Hare)
 
-#### Undergraduate Courses
+-   ICPSR Summer Program: Machine Learning, Applications in Social Science Research, one-week workshop (Summer 2020)
 
-***Harvard***
+### Undergraduate Courses
+
+#### Harvard
 
 -   GOV 1314: Race in American Society (Spring 2026, Marcel Roman)
 
 -   GOV 1372: Political Psychology (Fall 2025, Ryan D. Enos)
 
-***UC Davis***
+#### UC Davis
 
 -   POL 051: The Scientific Study of Politics (Research Methods) (Spring 2020, Christopher D. Hare)
 
@@ -29,9 +94,9 @@ editor: visual
 
 -   POL 012A: Elections & Voting Behavior (Winter 2018, Christopher D. Hare)
 
-### [Lectures, Labs, & Workshops]{.underline}
+## Lectures, Labs, & Workshops
 
--   [Northwestern Causal Machine Learning Lecture](content/Northwestern_Lecture_Slides.pdf): Presented to the Political Science Research Workshop.
+-   [Northwestern Causal Machine Learning Lecture](content/Northwestern_Lecture_Slides.pdf): Presented in POL 490, Machine Learning in Political Science.
 
 -   [Binghamton Causal Machine Learning Lecture](content/CF_for_Political_Science_Slides__Binghamton_.pdf): Presented to the Political Science Research Workshop.
 
@@ -45,6 +110,6 @@ editor: visual
 
     -   [Code html](content/PCA_cPCA.html)
 
--   [Interpretable Machine Learning Lab (For ICPSR)](content/ML_PCA_cPCA_Lab.pdf): Taught as an additional lab.
+-   [Interpretable Machine Learning Lab (For ICPSR)](content/IML_lab_handout.html): Taught as an additional lab.
 
     -   [Code html](content/IML_lab_handout.html)

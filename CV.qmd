@@ -1,10 +1,10 @@
 ---
 title: "Curriculum Vitae"
-date: "2/17/26"
+date: "August 26, 2026"
 format: html
 editor: visual
 ---
 
-You can find my curriculum vitae below, or you can [download my CV as a PDF](content/Fuller_CV_2_2026.pdf).
+You can find my curriculum vitae below, or you can [download my CV as a PDF](content/CV_8_26.pdf).
 
-{{< pdf content/Fuller_CV_2_2026.pdf width=800 height=1150 >}}
+{{< pdf content/CV_8_26.pdf width=800 height=1150 >}}

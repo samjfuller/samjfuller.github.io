@@ -1,57 +1,269 @@
 ---
 title: "Research"
-image: /images/combined_plot.png
+toc: false
+image: ""
 ---
 
-![](/images/combined_plot.png){width="600"}
+My research sits at the intersection of political behavior, public opinion, experiments, and machine learning methods for social science. Substantively, I study partisanship, polarization, anti-democratic attitudes, and political violence. Methodologically, I work on practical tools for experimental analysis, survey research, and causal inference.
 
-### [Forthcoming]{.underline}
+Project links include articles, preprints, code, supplements, and replication materials where publicly available.
 
--   *Advanced Machine Learning for Experiments in the Social Sciences*
-    -   With Jack T. Rametta & Christopher D. Hare
-    -   Under advance contract for publication in the [Cambridge Elements Experimental Political Science Series](https://www.cambridge.org/core/publications/elements/experimental-political-science)
+## Forthcoming
 
-"Machine learning tools are being more frequently adopted to various stages of the social science workflow. However, this field's growth has been limited by a lack of principled instruction on applying these methods and the esoteric nature of their current implementations. This Element introduces a comprehensive approach for social scientists looking to incorporate machine learning methods into experimental analysis. Specifically, we provide a flexible, data-driven approach to improve performance on tasks such as balance testing, attrition detection, the measurement of abstract concepts, and treatment effect estimation. Throughout, we detail the advantages of machine learning over traditional methods for these applications and provide practical guidance for evaluating validity, enhancing performance, and presenting results. We conclude by summarizing the myriad implications of these methods for experimental design, including how they integrate with pre-registration. Additionally, we provide a family of R packages with accompanying code and interactive walkthroughs to guide researchers through the host of methods and processes covered. This Element provides an approachable guide for social scientists who wish to apply cutting-edge machine learning methods to enhance the quality and resolution of their experimental research."
+:::::: project-list
+::::: project-card
+### Advanced Machine Learning for Experiments in the Social Sciences
 
-### [Publications]{.underline}
+::: project-meta
+Forthcoming Cambridge Element · with Jack T. Rametta & Christopher D. Hare
+:::
 
--   [Attitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander](https://link.springer.com/article/10.1007/s11109-025-10086-8)
-    -   With Hilary Izatt
--   [Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support](https://link.springer.com/article/10.1007/s11109-025-10030-w)
-    -   With Nicolás de la Cerda & Jack T. Rametta
--   [Populism and the affective partisan space in nine European publics: Evidence from a cross-national survey](https://www.frontiersin.org/articles/10.3389/fpos.2022.984238/full)
-    -   With Will Horne, James Adams, & Noam Gidron
--   [Assessing the effectiveness of COVID-19 vaccine lotteries: A cross-state synthetic control methods approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274374)
-    -   With Sara Kazemian, Carlos Algara, & Daniel J. Simmons
--   [The role of race and scientific trust on support for COVID-19 social distancing measures in the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254127)
-    -   With Sara Kazemian & Carlos Algara
--   [The Interactive Effects of Scientific Knowledge and Gender on COVID‐19 Social Distancing Compliance](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12894?casa_token=6e7Z-ZCUfysAAAAA%3A7yZfCaBB6TX6sbWXZlMGrZmmcDZlneO3w7sWqCka2PjzZCXBlOI7ghtgfxdz9DOPDZVwhv7wRajHJfi4)
-    -   With Carlos Algara, Christopher D. Hare, & Sara Kazemian
--   [The Conditional Effects of Scientific Knowledge & Gender on Support for COVID-19 Government Containment Policies in a Partisan America](https://www.cambridge.org/core/journals/politics-and-gender/article/conditional-effect-of-scientific-knowledge-and-gender-on-support-for-covid19-government-containment-policies-in-a-partisan-america/C4AEB27D4046433749A883941AC74809)
-    -   With Carlos Algara & Christopher D. Hare
+This Element introduces machine learning methods for balance testing, attrition detection, measurement, and treatment effect estimation in experimental political science.
 
-### [Research in Preparation]{.underline}
+::: pub-actions
+[Working draft](https://osf.io/preprints/osf/nm9de){.resource-link}
+:::
+:::::
+::::::
 
-#### *Under Review*
+## Publications
 
--   [What Predicts Support for Political Violence? Results from a Machine Learning Meta-Reanalysis](https://osf.io/preprints/socarxiv/d968h)
-    -   With Jack T. Rametta & Alexa Federice
--   [The Balance Permutation Test: A Machine Learning Replacement for Balance Tables](https://osf.io/preprints/osf/xcwt9)
-    -   With Jack T. Rametta
--   [Causal Forest and Doubly Robust Machine Learning for Political Science](https://osf.io/preprints/osf/nm9de)
-    -   With Jack T. Rametta
+:::::::::::::::::::::::: project-list
+::::: project-card
+### Attitudes Surrounding Fairness and Competition in Sports Predict Choices to Partisan Gerrymander
 
-#### *Working Papers*
+::: project-meta
+*Political Behavior* · with Hilary Izatt
+:::
 
--   Negative Partisanship -- Disdain Towards Out-Party Leaders, Out-Party Supporters, or Both?
-    -   With Alexa Bankert & Tabitha Lamberth
--   (Un)Civil Norms and Political Socialization
-    -   With Ryan D. Enos
--   [Towards a General Methodology of Bridging Ideological Spaces](https://www.researchgate.net/publication/343736604_Towards_a_General_Methodology_of_Bridging_Ideological_Spaces)
-    -   With Tzu-Ping Liu & Gento Kato
--   [The Dangers of Calculating Conditional Effects: A Reevaluation of Barber and Pope (2019)](https://osf.io/preprints/osf/hwzsu)
-    -   With Jack T. Rametta
--   Progressives and Never-Trumpers: Contrastive Principal Component Analysis as an Alternative Method for Public Opinion Research
-    -   With Tzu-Ping Liu
--   Rational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972--2020
-    -   With Carlos Algara
+Develops a sports-based battery measuring fairness and competitiveness and links those traits to support for partisan gerrymandering.
+
+::: pub-actions
+[Article](https://doi.org/10.1007/s11109-025-10086-8){.resource-link} [Replication](https://osf.io/r2cgy/){.resource-link}
+:::
+:::::
+
+::::: project-card
+### Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support
+
+::: project-meta
+*Political Behavior* · with Nicolás de la Cerda & Jack T. Rametta
+:::
+
+Uses causal forests to examine heterogeneity in partisan cue effects and shows how affective attachments shape policy responsiveness.
+
+::: pub-actions
+[Article](https://doi.org/10.1007/s11109-025-10030-w){.resource-link} [Replication](https://osf.io/mr2jq/){.resource-link}
+:::
+:::::
+
+::::: project-card
+### Populism and the Affective Partisan Space in Nine European Publics
+
+::: project-meta
+*Frontiers in Political Science* · with Will Horne, James Adams, & Noam Gidron
+:::
+
+Maps affective party evaluations across European publics and examines how citizens' affective ratings relate to party populism and ideology.
+
+::: pub-actions
+[Article](https://doi.org/10.3389/fpos.2022.984238){.resource-link} [Replication](https://doi.org/10.7910/DVN/MN4RAR){.resource-link}
+:::
+:::::
+
+::::: project-card
+### Assessing the Effectiveness of COVID-19 Vaccine Lotteries
+
+::: project-meta
+*PLOS One* · with Sara Kazemian, Carlos Algara, & Daniel J. Simmons
+:::
+
+Uses cross-state synthetic control methods to evaluate whether COVID-19 vaccine lottery programs increased vaccination uptake.
+
+::: pub-actions
+[Article](https://doi.org/10.1371/journal.pone.0274374){.resource-link} [Replication](https://doi.org/10.7910/DVN/K1XX02){.resource-link}
+:::
+:::::
+
+::::: project-card
+### The Role of Race and Scientific Trust on Support for COVID-19 Social Distancing Measures in the United States
+
+::: project-meta
+*PLOS One* · with Sara Kazemian & Carlos Algara
+:::
+
+Examines how scientific trust shapes support for social distancing policies across racial and ethnic groups in the United States.
+
+::: pub-actions
+[Article](https://doi.org/10.1371/journal.pone.0254127){.resource-link} [Replication](https://doi.org/10.7910/DVN/0RMZHK){.resource-link}
+:::
+:::::
+
+::::: project-card
+### The Interactive Effects of Scientific Knowledge and Gender on COVID-19 Social Distancing Compliance
+
+::: project-meta
+*Social Science Quarterly* · with Carlos Algara, Christopher D. Hare, & Sara Kazemian
+:::
+
+Studies the interaction between scientific knowledge and gender in explaining COVID-19 social distancing compliance.
+
+::: pub-actions
+[Article](https://doi.org/10.1111/ssqu.12894){.resource-link}
+:::
+:::::
+
+::::: project-card
+### The Conditional Effects of Scientific Knowledge & Gender on Support for COVID-19 Government Containment Policies in a Partisan America
+
+::: project-meta
+*Politics & Gender* · with Carlos Algara & Christopher D. Hare
+:::
+
+Analyzes how scientific knowledge and gender condition support for COVID-19 government containment policies.
+
+::: pub-actions
+[Article](https://doi.org/10.1017/S1743923X20000458){.resource-link} [Supplementary material](https://www.cambridge.org/core/journals/politics-and-gender/article/conditional-effect-of-scientific-knowledge-and-gender-on-support-for-covid19-government-containment-policies-in-a-partisan-america/C4AEB27D4046433749A883941AC74809#supplementary-material){.resource-link}
+:::
+:::::
+::::::::::::::::::::::::
+
+## Research in Progress
+
+### Under Review
+
+:::::::::::::::::::: project-list
+::::: project-card
+### What Predicts Support for Political Violence? Results from a Machine Learning Meta-Reanalysis
+
+::: project-meta
+Under review at AJPS · July 2026 · with Jack T. Rametta & Alexa Federice
+:::
+
+Analyzes 54 datasets across the social sciences to identify predictors of support for political violence and related attitudes.
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/socarxiv/d968h){.resource-link}
+:::
+:::::
+
+::::: project-card
+### The Changing Landscape of Democratic (Dis)Satisfaction: Results from the American National Election Study 1996-2024
+
+::: project-meta
+Under review at BJPS · July 2026 · with Neil S. Williams & Jack T. Rametta
+:::
+
+Uses ANES data from 1996-2024 to examine changes in democratic satisfaction and dissatisfaction.
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/socarxiv/cy964){.resource-link}
+:::
+:::::
+
+::::: project-card
+### Policy or Partisanship? How Polarization Biases Valence Evaluations in the U.S., U.K., and Taiwan
+
+::: project-meta
+Under review at BJPS · July 2026 · with Tzu-Ping Liu
+:::
+
+Examines how polarization biases valence evaluations across three political contexts.
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/socarxiv/k7rpv){.resource-link}
+:::
+:::::
+
+::::: project-card
+### Leaving Money on the Table: A Monte-Carlo Study Comparing Causal Forest and Standard Regression Models for Experiments
+
+::: project-meta
+Under review at JOP · June 2026 · with Jack T. Rametta
+:::
+
+Compares causal forests and standard regression models for experimental analysis using Monte Carlo simulations.
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/socarxiv/g395f){.resource-link}
+:::
+:::::
+
+::::: project-card
+### Are Random Forests Still "Good Enough"? Tabular Prior-Data Fitted Networks for Predictive and Causal Tasks
+
+::: project-meta
+Under review at Political Analysis · July 2026 · with Jack T. Rametta
+:::
+
+Evaluates tabular prior-data fitted networks for predictive and causal tasks in social science data.
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/socarxiv/g29xc){.resource-link}
+:::
+:::::
+
+:::: project-card
+### More Than a Feeling: Theoretical and Empirical Gaps Between Out-Party Affect and Negative Partisanship
+
+::: project-meta
+Under review at *Political Psychology* · July 2026 · with Alexa Bankert & Tabitha Lamberth
+:::
+
+Clarifies theoretical and empirical differences between out-party affect and negative partisanship.
+::::
+::::::::::::::::::::
+
+### Working Papers
+
+::::::::::::::: project-list
+::::: project-card
+### The Balance Permutation Test: A Machine Learning Replacement for Balance Tables
+
+::: project-meta
+Working paper · with Jack T. Rametta · presented at MPSA 2023
+:::
+
+Introduces a machine-learning balance test for experimental designs and motivates the accompanying MLbalance R package.
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/osf/xcwt9){.resource-link} [MLbalance](https://github.com/samjfuller/MLbalance){.resource-link}
+:::
+:::::
+
+:::: project-card
+### The Heterogeneous Influence of Democratic Attitudes and Electoral Advantage on Election Policy Attitudes
+
+::: project-meta
+Working paper · with Hilary Izatt · presented at the New England Area Political Psychology Meeting
+:::
+::::
+
+:::: project-card
+### Incivility Spirals
+
+::: project-meta
+Working paper · with Ryan D. Enos · presented at the Social and Moral Norms, Political Violence, and Threats to Democracy Workshop at Nuffield College, Oxford University
+:::
+::::
+
+::::: project-card
+### The Dangers of Calculating Conditional Effects: A Reevaluation of Barber and Pope (2019)
+
+::: project-meta
+Working paper · with Jack T. Rametta · presented at MPSA 2024
+:::
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/osf/hwzsu){.resource-link}
+:::
+:::::
+
+:::: project-card
+### Rational Voting in the Age of Ideological Polarization & Responsible Parties: Examining Presidential Elections from 1972-2020
+
+::: project-meta
+Working paper · with Carlos Algara & Jack T. Rametta · presented at SPSA 2026
+:::
+::::
+:::::::::::::::

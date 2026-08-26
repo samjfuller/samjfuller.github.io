@@ -1,8 +1,13 @@
 /*-- scss:defaults --*/
 // Base document colors
-$body-bg: #fef5fa;
-$link-color: #9085ab;
-$navbar-bg: #9085ab;
-$font-family: "Gill Sans", sans-serif;
+$body-bg: #faf8f2;
+$body-color: #202725;
+$link-color: #28766e;
+$navbar-bg: #202725;
+$navbar-fg: #faf8f2;
+$navbar-hl: #d8b56f;
+$font-family-sans-serif: "IBM Plex Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+$font-family-monospace: "IBM Plex Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+$headings-color: #17201e;
 // Code blocks
 $code-block-bg-alpha: -.8;
