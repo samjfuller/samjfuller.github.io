@@ -20,6 +20,9 @@ website:
       - teaching.qmd
       - CV.qmd
     right:
+      - icon: easel2
+        text: GOV 50
+        href: https://samjfuller.github.io/gov50-f26/
       - icon: envelope
         text: Email
         href: "mailto:sfuller@fas.harvard.edu"

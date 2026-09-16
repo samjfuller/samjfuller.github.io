@@ -6,7 +6,7 @@ image: ""
 
 My research sits at the intersection of political behavior, public opinion, experiments, and machine learning methods for social science. Substantively, I study partisanship, polarization, anti-democratic attitudes, and political violence. Methodologically, I work on practical tools for experimental analysis, survey research, and causal inference.
 
-Project links include articles, preprints, code, supplements, and replication materials where publicly available.
+Project links include articles, preprints, and replication materials where publicly available.
 
 ## Forthcoming
 
@@ -134,13 +134,28 @@ Analyzes how scientific knowledge and gender condition support for COVID-19 gove
 
 :::::::::::::::::::: project-list
 ::::: project-card
+### Unbundling Support for Political Violence
+
+::: project-meta
+Under review at APSR · September 2026 · with Jack T. Rametta & Alexa Federice
+:::
+
+Introduces a new set of batteries for measuring support for political violence that varies across actor$\rightarrow$target combinations; context and justification; and the severity of violent action.
+
+::: pub-actions
+[Preprint](https://osf.io/preprints/socarxiv/x86eh){.resource-link}
+:::
+:::::
+
+
+::::: project-card
 ### What Predicts Support for Political Violence? Results from a Machine Learning Meta-Reanalysis
 
 ::: project-meta
 Under review at AJPS · July 2026 · with Jack T. Rametta & Alexa Federice
 :::
 
-Analyzes 54 datasets across the social sciences to identify predictors of support for political violence and related attitudes.
+Analyzes 54 datasets across the social sciences to identify predictors of support for political violence.
 
 ::: pub-actions
 [Preprint](https://osf.io/preprints/socarxiv/d968h){.resource-link}

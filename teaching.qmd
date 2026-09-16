@@ -14,7 +14,7 @@ I teach quantitative methods, causal inference, machine learning, and American p
 Courses in data science, data analysis, and applied machine learning for political science and the social sciences.
 
 ::: {.pub-actions}
-[GOV 50 Course Website](https://samjfuller.github.io/gov50-f26/){.resource-link}
+[GOV 50 course website](https://samjfuller.github.io/gov50-f26/){.resource-link}
 :::
 :::
 
@@ -24,8 +24,8 @@ Courses in data science, data analysis, and applied machine learning for politic
 Topical workshop syllabus for ICPSR's Causal Machine Learning for Observational and Experimental Research.
 
 ::: {.pub-actions}
-[2026 Syllabus](content/ICPSR_Causal_Machine_Learning_Syllabus_2026.pdf){.resource-link}
-[2025 Syllabus](content/ICPSR_Causal_Machine_Learning_Syllabus_2025.pdf){.resource-link}
+[2026 syllabus](content/ICPSR_Causal_Machine_Learning_Syllabus_2026.pdf){.resource-link}
+[2025 syllabus](content/ICPSR_Causal_Machine_Learning_Syllabus_2025.pdf){.resource-link}
 :::
 :::
 
@@ -58,8 +58,8 @@ Applied lab materials for unsupervised learning and interpretable machine learni
 
 ::: {.pub-actions}
 [PCA/cPCA PDF](content/ML_PCA_cPCA_Lab.pdf){.resource-link}
-[PCA/cPCA Code](content/PCA_cPCA.html){.resource-link}
-[IML Code](content/IML_lab_handout.html){.resource-link}
+[PCA/cPCA code](content/PCA_cPCA.html){.resource-link}
+[IML code](content/IML_lab_handout.html){.resource-link}
 :::
 :::
 :::

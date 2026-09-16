@@ -76,6 +76,35 @@ gtag('js', new Date());
 gtag('config', 'G-61BW6TLKYX', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="style.css">
 <meta property="og:title" content="Sam Fuller - Research">
@@ -122,6 +151,11 @@ gtag('config', 'G-61BW6TLKYX', { 'anonymize_ip': true});
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://samjfuller.github.io/gov50-f26/"> <i class="bi bi-easel2" role="img">
+</i> 
+<span class="menu-text">GOV 50</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="mailto:sfuller@fas.harvard.edu"> <i class="bi bi-envelope" role="img">
 </i> 
@@ -274,12 +308,22 @@ gtag('config', 'G-61BW6TLKYX', { 'anonymize_ip': true});
 <h3 class="anchored" data-anchor-id="under-review">Under Review</h3>
 </section>
 <div class="project-list">
+<section id="unbundling-support-for-political-violence" class="level3 project-card">
+<h3 class="anchored" data-anchor-id="unbundling-support-for-political-violence">Unbundling Support for Political Violence</h3>
+<div class="project-meta">
+<p>Under review at APSR · September 2026 · with Jack T. Rametta &amp; Alexa Federice</p>
+</div>
+<p>Introduces a new set of batteries for measuring support for political violence that varies across actor<span class="math inline">\(\rightarrow\)</span>target combinations; context and justification; and the severity of violent action.</p>
+<div class="pub-actions">
+<p><a href="https://osf.io/preprints/socarxiv/x86eh" class="resource-link">Preprint</a></p>
+</div>
+</section>
 <section id="what-predicts-support-for-political-violence-results-from-a-machine-learning-meta-reanalysis" class="level3 project-card">
 <h3 class="anchored" data-anchor-id="what-predicts-support-for-political-violence-results-from-a-machine-learning-meta-reanalysis">What Predicts Support for Political Violence? Results from a Machine Learning Meta-Reanalysis</h3>
 <div class="project-meta">
 <p>Under review at AJPS · July 2026 · with Jack T. Rametta &amp; Alexa Federice</p>
 </div>
-<p>Analyzes 54 datasets across the social sciences to identify predictors of support for political violence and related attitudes.</p>
+<p>Analyzes 54 datasets across the social sciences to identify predictors of support for political violence.</p>
 <div class="pub-actions">
 <p><a href="https://osf.io/preprints/socarxiv/d968h" class="resource-link">Preprint</a></p>
 </div>
