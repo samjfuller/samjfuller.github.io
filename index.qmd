@@ -70,6 +70,8 @@ My book project, *The Politics of Supporting Violence*, coauthored with [Jack T.
 
 ## News & Updates
 
+- My paper with Tabitha Lamberth and Alexa Bankert, "More Than a Feeling: Theoretical and Empirical Gaps Between Out-Party Affect and Negative Partisanship," is now under revise & resubmit at *Political Psychology*.
+
 - I am serving as Lecturer in Political Methodology at Harvard University during the 2026 school year, teaching the undergraduate methods sequence and a PhD course on machine learning.
 
   - [GOV 50 course website](https://samjfuller.github.io/gov50-f26/){.resource-link}
@@ -78,9 +80,7 @@ My book project, *The Politics of Supporting Violence*, coauthored with [Jack T.
 
 ## About Me
 
-I am a Postdoctoral Fellow in Public Opinion and Survey Methodology at the [Center for American Political Studies](https://caps.gov.harvard.edu/) in the [Department of Government](https://www.gov.harvard.edu/) at Harvard University, and a Lecturer in Political Methodology in Harvard's Department of Government.
-
-I also direct the [Harvard Digital Labs for the Social Sciences](https://dlabss.harvard.edu/) and serve as Academic Lead for the [Harvard CAPS-Harris Poll](https://harvardharrispoll.com/).
+I am a Postdoctoral Fellow in Public Opinion and Survey Methodology at the [Center for American Political Studies](https://caps.gov.harvard.edu/) in the [Department of Government](https://www.gov.harvard.edu/) at Harvard University, and a Lecturer in Political Methodology in Harvard's Department of Government. I also direct the [Harvard Digital Labs for the Social Sciences](https://dlabss.harvard.edu/).
 
 My substantive research focuses on the relationship between partisanship as a social identity and anti-democratic attitudes, including [gerrymandering](https://link.springer.com/article/10.1007/s11109-025-10086-8) and support for political violence. Much of my work here focuses on leveraging measurement and scaling to better capture both the structure of partisanship and these anti-democratic attitudes. I am also working with [Professor Caitlin Patler](https://caitlinpatler.com/) on a project that uses [Causal Machine Learning](https://osf.io/preprints/osf/nm9de) to estimate the causal effects of immigration detention/incarceration on mental and physical health.
 
